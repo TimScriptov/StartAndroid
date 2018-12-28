@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-	<version_code>401</version_code>
-	<version_name>5.0.0</version_name>
+	<version_code>600</version_code>
+	<version_name>6.0</version_name>
 	<release_notes>
-✓ Переключение уроков с помощью свайпов
+✓ Исправлены ошибки
+✓ Теперь удобный интерфейс
 	</release_notes>
 	<download_link>market://details?id=com.startandroid</download_link>
 </update>
