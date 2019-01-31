@@ -177,4 +177,9 @@
 	<lesson>Урок 175. OpenGL. Текстуры.</lesson>
 	<lesson>Урок 176. OpenGL. Индексы, текстуры для куба.</lesson>
 	<lesson>Урок 177. ConstraintLayout. Основы</lesson>
+<lesson>Урок 178. ConstraintLayout: match_constraints, инструменты в toolbar, guidelines, aspect ratio</lesson>
+<lesson>Урок 179. ConstraintLayout: chain, weight, barrier, group, circular</lesson>
+<lesson>Урок 180. ConstraintSet. Программная настройка ConstraintLayout</lesson>
+<lesson>Урок 181. Android Notifications. Уведомления. Основы</lesson>
+<lesson>Урок 182. Notifications. Режимы открытия Activity</lesson>
 </lessons>
