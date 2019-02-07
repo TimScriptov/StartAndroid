@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <lessons>
 	<lesson>Урок 1. Введение.</lesson>
 	<lesson>Урок 2. Установка Android Studio</lesson>
@@ -177,9 +177,14 @@
 	<lesson>Урок 175. OpenGL. Текстуры.</lesson>
 	<lesson>Урок 176. OpenGL. Индексы, текстуры для куба.</lesson>
 	<lesson>Урок 177. ConstraintLayout. Основы</lesson>
-<lesson>Урок 178. ConstraintLayout: match_constraints, инструменты в toolbar, guidelines, aspect ratio</lesson>
-<lesson>Урок 179. ConstraintLayout: chain, weight, barrier, group, circular</lesson>
-<lesson>Урок 180. ConstraintSet. Программная настройка ConstraintLayout</lesson>
-<lesson>Урок 181. Android Notifications. Уведомления. Основы</lesson>
-<lesson>Урок 182. Notifications. Режимы открытия Activity</lesson>
+	<lesson>Урок 178. ConstraintLayout: match_constraints, инструменты в toolbar, guidelines, aspect ratio</lesson>
+	<lesson>Урок 179. ConstraintLayout: chain, weight, barrier, group, circular</lesson>
+	<lesson>Урок 180. ConstraintSet. Программная настройка ConstraintLayout</lesson>
+	<lesson>Урок 181. Android Notifications. Уведомления. Основы</lesson>
+	<lesson>Урок 182. Notifications. Режимы открытия Activity</lesson>
+	<lesson>Урок 183. Notifications. Расширенные уведомления</lesson>
+	<lesson>Урок 184. Notifications. Action кнопки. Reply</lesson>
+	<lesson>Урок 185. Notifications. Кастомные уведомления</lesson>
+	<lesson>Урок 186. Notifications. Группировка уведомлений</lesson>
+	<lesson>Урок 187. Notifications. Каналы</lesson>
 </lessons>
