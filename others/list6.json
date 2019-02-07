@@ -1,0 +1,19 @@
+{
+  "lessons":[
+    {
+	"Урок 71. Preferences как настройки приложения. PreferenceActivity@https://TimScriptov.github.io/StartAndroid/pages/lesson_71.html",
+	"Урок 72. Preferences. Список, экраны и категории@https://TimScriptov.github.io/StartAndroid/pages/lesson_72.html",
+	"Урок 73. Preferences. Управляем активностью настроек (setEnabled)@https://TimScriptov.github.io/StartAndroid/pages/lesson_73.html",
+	"Урок 74. Preferences. Программное создание экрана настроек@https://TimScriptov.github.io/StartAndroid/pages/lesson_74.html",
+	"Урок 75. Хранение данных. Работа с файлами.@https://TimScriptov.github.io/StartAndroid/pages/lesson_75.html",
+	"Урок 76. Tab - вкладки. Общий обзор@https://TimScriptov.github.io/StartAndroid/pages/lesson_76.html",
+	"Урок 77. Tab - вкладки. TabActivity. Activity, как содержимое вкладки@https://TimScriptov.github.io/StartAndroid/pages/lesson_77.html",
+	"Урок 78. Tab - вкладки. TabContentFactory, ручное создание содержимого вкладки@https://TimScriptov.github.io/StartAndroid/pages/lesson_78.html",
+	"Урок 79. XmlPullParser. Парсим XML@https://TimScriptov.github.io/StartAndroid/pages/lesson_79.html",
+	"Урок 80. Handler. Немного теории.  Наглядный пример использования@https://TimScriptov.github.io/StartAndroid/pages/lesson_80.html",
+	"Урок 81. Handler. Посылаем простое сообщение@https://TimScriptov.github.io/StartAndroid/pages/lesson_81.html",
+	"Урок 82. Handler. Пример с более содержательными сообщениями@https://TimScriptov.github.io/StartAndroid/pages/lesson_82.html",
+	"Урок 83. Handler. Отложенные сообщения, удаление из очереди, Handler.Callback@https://TimScriptov.github.io/StartAndroid/pages/lesson_83.html",
+	"Урок 84. Handler. Обработка Runnable@https://TimScriptov.github.io/StartAndroid/pages/lesson_84.html"
+  }]
+}

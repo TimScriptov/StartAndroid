@@ -1,0 +1,18 @@
+{
+  "lessons":[
+    {
+	"Урок 15. Контекстное меню@https://TimScriptov.github.io/StartAndroid/pages/lesson_15.html",
+	"Урок 16. Программное создание экрана. LayoutParams@https://TimScriptov.github.io/StartAndroid/pages/lesson_16.html",
+	"Урок 17. Создание View-компонент в рабочем приложении@https://TimScriptov.github.io/StartAndroid/pages/lesson_17.html",
+	"Урок 18. Меняем layoutParams в рабочем приложении@https://TimScriptov.github.io/StartAndroid/pages/lesson_18.html",
+	"Урок 19. Пишем простой калькулятор@https://TimScriptov.github.io/StartAndroid/pages/lesson_19.html",
+	"Урок 20. Анимация@https://TimScriptov.github.io/StartAndroid/pages/lesson_20.html",
+	"Урок 21. Создание и вызов Activity@https://TimScriptov.github.io/StartAndroid/pages/lesson_21.html",
+	"Урок 22. Intent, Intent Filter, Context - теория@https://TimScriptov.github.io/StartAndroid/pages/lesson_22.html",
+	"Урок 23. Activity Lifecycle. В каких состояниях может быть Activity@https://TimScriptov.github.io/StartAndroid/pages/lesson_23.html",
+	"Урок 24. Activity Lifecycle, пример смены состояний с двумя Activity@https://TimScriptov.github.io/StartAndroid/pages/lesson_24.html",
+	"Урок 25. Task. Что это такое и как формируется@https://TimScriptov.github.io/StartAndroid/pages/lesson_25.html",
+	"Урок 26. Intent Filter - практика@https://TimScriptov.github.io/StartAndroid/pages/lesson_26.html",
+	"Урок 27. Читаем action из Intent@https://TimScriptov.github.io/StartAndroid/pages/lesson_27.html"
+  }]
+}

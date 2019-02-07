@@ -1,0 +1,19 @@
+{
+  "lessons":[
+    {
+	"Урок 141. Рисование. Доступ к Canvas@https://TimScriptov.github.io/StartAndroid/pages/lesson_141.html",
+	"Урок 142. Рисование. Простые фигуры, текст@https://TimScriptov.github.io/StartAndroid/pages/lesson_142.html",
+	"Урок 143. Рисование. Path@https://TimScriptov.github.io/StartAndroid/pages/lesson_143.html",
+	"Урок 144. Рисование. Matrix-преобразования@https://TimScriptov.github.io/StartAndroid/pages/lesson_144.html",
+	"Урок 145. Рисование. Matrix. setRectToRect и setPolyToPoly@https://TimScriptov.github.io/StartAndroid/pages/lesson_145.html",
+	"Урок 146. Рисование. Canvas-преобразования. Методы save и restore.@https://TimScriptov.github.io/StartAndroid/pages/lesson_146.html",
+	"Урок 147. Рисование. Region@https://TimScriptov.github.io/StartAndroid/pages/lesson_147.html",
+	"Урок 148. Рисование. Canvas, clip@https://TimScriptov.github.io/StartAndroid/pages/lesson_148.html",
+	"Урок 149. Рисование. Текст@https://TimScriptov.github.io/StartAndroid/pages/lesson_149.html",
+	"Урок 150. Рисование. PathMeasure – информация о Path-объекте@https://TimScriptov.github.io/StartAndroid/pages/lesson_150.html",
+	"Урок 151. Рисование. PathEffect@https://TimScriptov.github.io/StartAndroid/pages/lesson_151.html",
+	"Урок 152. Рисование. Picture@https://TimScriptov.github.io/StartAndroid/pages/lesson_152.html",
+	"Урок 153. Рисование. ColorFilter, ColorMatrix@https://TimScriptov.github.io/StartAndroid/pages/lesson_153.html",
+	"Урок 154. Рисование. PorterDuff.Mode, PorterDuffXfermode@https://TimScriptov.github.io/StartAndroid/pages/lesson_154.html"
+  }]
+}

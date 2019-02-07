@@ -1,0 +1,19 @@
+{
+  "lessons":[
+    {
+	"Урок 127. Медиа. SoundPool@https://TimScriptov.github.io/StartAndroid/pages/lesson_127.html",
+	"Урок 128. Медиа. Audio Focus@https://TimScriptov.github.io/StartAndroid/pages/lesson_128.html",
+	"Урок 129. Медиа. Запись звука с помощью MediaRecorder@https://TimScriptov.github.io/StartAndroid/pages/lesson_129.html",
+	"Урок 130. Медиа. Запись звука с помощью AudioRecorder@https://TimScriptov.github.io/StartAndroid/pages/lesson_130.html",
+	"Урок 131. Камера. Используем системное приложение@https://TimScriptov.github.io/StartAndroid/pages/lesson_131.html",
+	"Урок 132. Камера. Вывод изображения на экран. Размер preview. Обработка поворота устройства@https://TimScriptov.github.io/StartAndroid/pages/lesson_132.html",
+	"Урок 133. Камера. Делаем снимок и пишем видео@https://TimScriptov.github.io/StartAndroid/pages/lesson_133.html",
+	"Урок 134. Камера. Настройки@https://TimScriptov.github.io/StartAndroid/pages/lesson_134.html",
+	"Урок 135. Loader. LoaderManager. AsyncTaskLoader@https://TimScriptov.github.io/StartAndroid/pages/lesson_135.html",
+	"Урок 136. CursorLoader@https://TimScriptov.github.io/StartAndroid/pages/lesson_136.html",
+	"Урок 137. Сенсоры. Ускорение, ориентация.@https://TimScriptov.github.io/StartAndroid/pages/lesson_137.html",
+	"Урок 138. Определение местоположения. GPS координаты.@https://TimScriptov.github.io/StartAndroid/pages/lesson_138.html",
+	"Урок 139. Google maps. Создание и настройка проекта. Карта, камера, события@https://TimScriptov.github.io/StartAndroid/pages/lesson_139.html",
+	"Урок 140. Google maps. Свои объекты на карте@https://TimScriptov.github.io/StartAndroid/pages/lesson_140.html"
+  }]
+}
