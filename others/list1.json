@@ -1,6 +1,6 @@
 {
   "lessons":[
-    {
+
 	"Урок 1. Введение@https://TimScriptov.github.io/StartAndroid/pages/lesson_1.html",
 	"Урок 2. Установка Android Studio@https://TimScriptov.github.io/StartAndroid/pages/lesson_2.html",
 	"Урок 3. Создание AVD. Первое приложение. Структура Android-проекта.@https://TimScriptov.github.io/StartAndroid/pages/lesson_3.html",
@@ -15,5 +15,5 @@
 	"Урок 12. Логи и всплывающие сообщения@https://TimScriptov.github.io/StartAndroid/pages/lesson_12.html",
 	"Урок 13. Создание простого меню@https://TimScriptov.github.io/StartAndroid/pages/lesson_13.html",
 	"Урок 14. Меню, группы, порядок. MenuInflater и xml-меню.@https://TimScriptov.github.io/StartAndroid/pages/lesson_14.html"
-  }]
+  ]
 }
