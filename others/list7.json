@@ -1,6 +1,6 @@
 {
   "lessons":[
-    {
+    
 	"Урок 85. Еще несколько способов выполнения кода в UI-потоке@https://TimScriptov.github.io/StartAndroid/pages/lesson_85.html",
 	"Урок 86. AsyncTask. Знакомство, несложный пример@https://TimScriptov.github.io/StartAndroid/pages/lesson_86.html",
 	"Урок 87. AsyncTask. Параметры. Промежуточные результаты@https://TimScriptov.github.io/StartAndroid/pages/lesson_87.html",
@@ -15,5 +15,5 @@
 	"Урок 96. Service. Обратная связь с помощью BroadcastReceiver@https://TimScriptov.github.io/StartAndroid/pages/lesson_96.html",
 	"Урок 97. Service. Биндинг. ServiceConnection@https://TimScriptov.github.io/StartAndroid/pages/lesson_97.html",
 	"Урок 98. Service. Локальный биндинг@https://TimScriptov.github.io/StartAndroid/pages/lesson_98.html"
-  }]
+  ]
 }

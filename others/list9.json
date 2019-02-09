@@ -1,6 +1,6 @@
 {
   "lessons":[
-    {
+    
 	"Урок 113. Android 3. ActionMode, как альтернатива контекстному меню@https://TimScriptov.github.io/StartAndroid/pages/lesson_113.html",
 	"Урок 114. Android 3. Библиотека Support Library. Зачем нужна и как ее использовать на примере фрагментов@https://TimScriptov.github.io/StartAndroid/pages/lesson_114.html",
 	"Урок 115. Одно приложение на разных экранах@https://TimScriptov.github.io/StartAndroid/pages/lesson_115.html",
@@ -15,5 +15,5 @@
 	"Урок 124. Что такое Package для приложения@https://TimScriptov.github.io/StartAndroid/pages/lesson_124.html",
 	"Урок 125. ViewPager@https://TimScriptov.github.io/StartAndroid/pages/lesson_125.html",
 	"Урок 126. Медиа. MediaPlayer – аудио/видео плеер, основные возможности@https://TimScriptov.github.io/StartAndroid/pages/lesson_126.html"
-  }]
+  ]
 }

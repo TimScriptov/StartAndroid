@@ -1,6 +1,6 @@
 {
   "lessons":[
-    {
+    
 	"Урок 43. Одиночный и множественный выбор в ListView@https://TimScriptov.github.io/StartAndroid/pages/lesson_43.html",
 	"Урок 44. События в ListView@https://TimScriptov.github.io/StartAndroid/pages/lesson_44.html",
 	"Урок 45. Список-дерево ExpandableListView@https://TimScriptov.github.io/StartAndroid/pages/lesson_45.html",
@@ -15,5 +15,5 @@
 	"Урок 54. Кастомизация списка. Создаем свой адаптер@https://TimScriptov.github.io/StartAndroid/pages/lesson_54.html",
 	"Урок 55. Header и Footer в списках. HeaderViewListAdapter@https://TimScriptov.github.io/StartAndroid/pages/lesson_55.html",
 	"Урок 56. Spinner – выпадающий список@https://TimScriptov.github.io/StartAndroid/pages/lesson_56.html"
-  }]
+  ]
 }

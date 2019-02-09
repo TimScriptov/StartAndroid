@@ -1,6 +1,6 @@
 {
   "lessons":[
-    {
+    
 	"Урок 57. GridView и его атрибуты@https://TimScriptov.github.io/StartAndroid/pages/lesson_57.html",
 	"Урок 58. Диалоги. TimePickerDialog@https://TimScriptov.github.io/StartAndroid/pages/lesson_58.html",
 	"Урок 59. Диалоги. DatePickerDialog@https://TimScriptov.github.io/StartAndroid/pages/lesson_59.html",
@@ -15,5 +15,5 @@
 	"Урок 68. Немного о Parcel@https://TimScriptov.github.io/StartAndroid/pages/lesson_68.html",
 	"Урок 69. Передаем Parcelable объекты с помощью Intent@https://TimScriptov.github.io/StartAndroid/pages/lesson_69.html",
 	"Урок 70. onSaveInstanceState. Сохранение данных Activity при повороте экрана@https://TimScriptov.github.io/StartAndroid/pages/lesson_70.html"
-  }]
+  ]
 }

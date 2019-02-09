@@ -1,6 +1,6 @@
 {
   "lessons":[
-    {
+    
 	"Урок 71. Preferences как настройки приложения. PreferenceActivity@https://TimScriptov.github.io/StartAndroid/pages/lesson_71.html",
 	"Урок 72. Preferences. Список, экраны и категории@https://TimScriptov.github.io/StartAndroid/pages/lesson_72.html",
 	"Урок 73. Preferences. Управляем активностью настроек (setEnabled)@https://TimScriptov.github.io/StartAndroid/pages/lesson_73.html",
@@ -15,5 +15,5 @@
 	"Урок 82. Handler. Пример с более содержательными сообщениями@https://TimScriptov.github.io/StartAndroid/pages/lesson_82.html",
 	"Урок 83. Handler. Отложенные сообщения, удаление из очереди, Handler.Callback@https://TimScriptov.github.io/StartAndroid/pages/lesson_83.html",
 	"Урок 84. Handler. Обработка Runnable@https://TimScriptov.github.io/StartAndroid/pages/lesson_84.html"
-  }]
+  ]
 }
