@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lessons>
+	<lesson>Lesson 1. Introduction</lesson>
+	<lesson>Lesson 2. Installing and configuring development environment Eclipse and SDK Tools</lesson>
+	<lesson>Lesson 3. Creating AVD. The first application. Android project structure</lesson>
+	<lesson>Lesson 4. Layout elements and their properties</lesson>
+	<lesson>Lesson 5. Layout-file for Activity. XML Representation. Changing screen orientation</lesson>
+	<lesson>Lesson 6. Layout types. Key differences and properties</lesson>
+	<lesson>Lesson 7. Layout parameters for View-elements</lesson>
+	<lesson>Lesson 8. Working with layout elements from code</lesson>
+	<lesson>Lesson 9. Event listeners with Button example</lesson>
+	<lesson>Lesson 10. Optimizing event listeners implementation</lesson>
+	<lesson>Lesson 11. res/values folder. Using application resources</lesson>
+	<lesson>Lesson 12. Logs and Toast messages.</lesson>
+	<lesson>Lesson 13. Creating a simple menu</lesson>
+	<lesson>Lesson 14. Menu, groups, order. MenuInflater and xml-menu</lesson>
+	<lesson>Lesson 15. Context menu</lesson>
+	<lesson>Lesson 16. Creating layout programmatically. LayoutParams</lesson>
+	<lesson>Lesson 17. Creating View-components in a running application</lesson>
+	<lesson>Lesson 18. Changing layoutParams in a running application</lesson>
+	<lesson>Lesson 19. Creating a simple calculator</lesson>
+	<lesson>Lesson 20. Animation</lesson>
+	<lesson>Lesson 21. Creating and starting an Activity</lesson>
+	<lesson>Lesson 22. Intent, Intent Filter, Context - theory</lesson>
+	<lesson>Lesson 23. Activity Lifecycle. Activity states</lesson>
+	<lesson>Lesson 24. Activity Lifecycle, example about changing states with two Activities</lesson>
+	<lesson>Lesson 25. Task. What is it and how it is formed.</lesson>
+	<lesson>Lesson 26. Intent Filter - practice</lesson>
+	<lesson>Lesson 27. Reading action from Intent</lesson>
+	<lesson>Lesson 28. Extras - passing data using Intent</lesson>
+	<lesson>Lesson 29. Making activity return result with startActivityForResult method</lesson>
+	<lesson>Lesson 30. More details about onActivityResult</lesson>
+	<lesson>Lesson 31. Intent attributes Uri and data. Launch system apps.</lesson>
+	<lesson>Lesson 32. Code simple browser.</lesson>
+	<lesson>Lesson 33. Data storing. Preferences.</lesson>
+	<lesson>Lesson 34. Storing data. SQLite</lesson>
+	<lesson>Lesson 35. SQLite. Methods update и delete with parameters</lesson>
+	<lesson>Lesson 36. SQLite. Query method in details. Conditions, grouping, sorting</lesson>
+	<lesson>Lesson 37. Joined tables’ queries. SQLite INNER JOIN. rawQuery method</lesson>
+	<lesson>Lesson 38. SQLite transactions, short SQLite FAQ</lesson>
+	<lesson>Lesson 39. onUpgrade. Database migrating</lesson>
+	<lesson>Lesson 40. Learning to use LayoutInflater</lesson>
+	<lesson>Lesson 41. Creating a list with LayoutInflater</lesson>
+	<lesson>Lesson 42. ListView</lesson>
+	<lesson>Lesson 43. Single and multiple choice in ListView</lesson>
+	<lesson>Lesson 44. ListView events</lesson>
+	<!--Google Translate-->
+	<lesson>Lesson 45. ExpandableListView list tree</lesson>
+	<lesson>Lesson 46. ExpandableListView Events</lesson>
+	<lesson>Lesson 47. Adapter Overview</lesson>
+	<lesson>Lesson 48. Using SimpleAdapter.</lesson>
+	<lesson>Lesson 49. SimpleAdapter. SetsWeText and SetViewImage</lesson>
+	<lesson>Lesson 50. SimpleAdapter. We use ViewBinder</lesson>
+	<lesson>Lesson 51. SimpleAdapter, adding and deleting records</lesson>
+	<lesson>Lesson 52. SimpleCursorAdapter Case Study</lesson>
+	<lesson>Lesson 53. SimpleCursorTreeAdapter, example usage</lesson>
+	<lesson>Lesson 54. Customization list. Create your adapter</lesson>
+	<lesson>Lesson 55. Header and Footer in the lists. HeaderViewListAdapter</lesson>
+	<lesson>Lesson 56. Spinner - drop-down list.</lesson>
+	<lesson>Lesson 57. GridView and its attributes</lesson>
+	<lesson>Lesson 58. Dialogues. Timepickerdialog</lesson>
+	<lesson>Lesson 59. Dialogues. Datepickerdialog</lesson>
+	<lesson>Lesson 60. Dialogues. AlertDialog: Title, Message, Icon, Buttons</lesson>
+	<lesson>Lesson 61. Dialogues. AlertDialog. Method onPrepareDialog</lesson>
+	<lesson>Lesson 62. Dialogues. AlertDialog. List</lesson>
+	<lesson>Lesson 63. Dialogues. AlertDialog. Single selection list</lesson>
+	<lesson>Lesson 64. Dialogues. AlertDialog. Multiple choice list</lesson>
+	<lesson>Lesson 65. Dialogues. AlertDialog. Customization</lesson>
+	<lesson>Lesson 66. Dialogues. Handlers and operations</lesson>
+	<lesson>Lesson 67. Dialogues. ProgressDialog</lesson>
+	<lesson>Lesson 68. A little about Parcel</lesson>
+	<lesson>Lesson 69. Passing Parcelable Objects With Intent</lesson>
+	<lesson>Lesson 70. onSaveInstanceState. Saving Activity data when rotating the screen</lesson>
+	<lesson>Lesson 71. Preferences as application settings. PreferenceActivity</lesson>
+	<lesson>Lesson 72. Preferences. List, screens and categories</lesson>
+	<lesson>Lesson 73. Preferences. Manage settings activity (setEnabled)</lesson>
+	<lesson>Lesson 74. Preferences. Software creation of settings screen</lesson>
+	<lesson>Lesson 75. Data storage. Work with files.</lesson>
+	<lesson>Lesson 76. Tab - tabs. general review</lesson>
+	<lesson>Lesson 77. Tab - tabs. TabActivity. Activity as tab content</lesson>
+	<lesson>Lesson 78. Tab - tabs. TabContentFactory, manual creation of tab contents</lesson>
+	<lesson>Lesson 79. XmlPullParser. Parsim XML</lesson>
+	<lesson>Lesson 80. Handler. A bit of theory. Illustrative use case</lesson>
+	<lesson>Lesson 81. Handler. We send a simple message</lesson>
+	<lesson>Lesson 82. Handler. An example with more meaningful messages</lesson>
+	<lesson>Lesson 83. Handler. Delayed messages, removal from the queue, Handler.Callback</lesson>
+	<lesson>Lesson 84. Handler. Runnable processing</lesson>
+	<lesson>Lesson 85. A few more ways to execute code in a UI thread</lesson>
+	<lesson>Lesson 86. AsyncTask. Acquaintance, simple example</lesson>
+	<lesson>Lesson 87. AsyncTask. Options. Interim results</lesson>
+	<lesson>Lesson 88. AsyncTask. The final result. Get method</lesson>
+	<lesson>Lesson 89. AsyncTask. Cancel - cancel the task during execution.</lesson>
+	<lesson>Lesson 90. AsyncTask. Status - task status</lesson>
+	<lesson>Lesson 91. AsyncTask. Screen rotation</lesson>
+	<lesson>Lesson 92. Service. Simple example</lesson>
+	<lesson>Lesson 93. Service. Data transfer to the service. Service stopping methods</lesson>
+	<lesson>Lesson 94. Service. Learn more about onStartCommand</lesson>
+	<lesson>Lesson 95. Service. Feedback with PendingIntent</lesson>
+	<lesson>Lesson 96. Service. Feedback via BroadcastReceiver</lesson>
+	<lesson>Lesson 97. Service. Binding Serviceconnection</lesson>
+	<lesson>Lesson 98. Service. Local binding</lesson>
+	<lesson>Lesson 99. Service. Notifications - notifications</lesson>
+	<lesson>Lesson 100. Service. IntentService. Foreground. Autostart service</lesson>
+	<lesson>Lesson 101. Create your ContentProvider</lesson>
+	<lesson>Lesson 102. Touch - touch processing</lesson>
+	<lesson>Lesson 103. MultiTouch - handling multiple touches</lesson>
+	<lesson>Lesson 104. Android 3. Fragments. Lifecycle</lesson>
+	<lesson>Lesson 105. Android 3. Fragments. Dynamic work</lesson>
+	<lesson>Lesson 106. Android 3. Fragments. Interaction with the Activity</lesson>
+	<lesson>Lesson 107. Android 3. ActionBar. Placement of elements</lesson>
+	<lesson>Lesson 108. Android 3. ActionBar. Navigation - tabs and dropdown list</lesson>
+	<lesson>Lesson 109. Android 3. Fragments. ListFragment - list</lesson>
+	<lesson>Lesson 110. Android 3. Fragments. DialogFragment - dialogue</lesson>
+	<lesson>Lesson 111. Android 3. Fragments. PreferenceFragment - settings. Headers</lesson>
+	<lesson>Lesson 112. Android 3. ActionBar. Dynamic placement of elements</lesson>
+	<lesson>Lesson 113. Android 3. ActionMode as an alternative to the context menu</lesson>
+	<lesson>Lesson 114. Android 3. Support Library. Why and how to use it on the example of fragments</lesson>
+	<lesson>Lesson 115. One application on different screens.</lesson>
+	<lesson>Lesson 116. Activity behavior in Task. Intent flags, launchMode, affinity</lesson>
+	<lesson>Lesson 117. Widgets. Creature. Lifecycle</lesson>
+	<lesson>Lesson 118. Widgets. Configuration screen Update</lesson>
+	<lesson>Lesson 119. PendingIntent - flags, requestCode. Alarmmanager</lesson>
+	<lesson>Lesson 120. Widgets. Click processing</lesson>
+	<lesson>Lesson 121. Widgets. List</lesson>
+	<lesson>Lesson 122. Widgets. Preview, resize, lock screen, manual update</lesson>
+	<lesson>Lesson 123. How to sign the application. Keytool and jarsigner utilities</lesson>
+	<lesson>Lesson 124. What is a Package for an application?</lesson>
+	<lesson>Lesson 125. ViewPager</lesson>
+	<lesson>Lesson 126. Media. MediaPlayer - audio/video player, key features</lesson>
+	<lesson>Lesson 127. Media. Soundpool</lesson>
+	<lesson>Lesson 128. Media. Audio focus</lesson>
+	<lesson>Lesson 129. Media. Sound Recording with MediaRecorder</lesson>
+	<lesson>Lesson 130. Media. Sound Recording with AudioRecorder</lesson>
+	<lesson>Lesson 131. Camera. We use the system application</lesson>
+	<lesson>Lesson 132. The camera. Display image on screen. Size preview. Handling device rotation</lesson>
+	<lesson>Lesson 133. Camera. Take a picture and write video</lesson>
+	<lesson>Lesson 134. Camera. Settings</lesson>
+	<lesson>Lesson 135. Loader. LoaderManager. AsyncTaskLoader</lesson>
+	<lesson>Lesson 136. CursorLoader</lesson>
+	<lesson>Lesson 137. Sensors. Acceleration, orientation.</lesson>
+	<lesson>Lesson 138. Determination of location. GPS coordinates.</lesson>
+	<lesson>Lesson 139. Google maps. Create and configure the project. Map, Camera, Events</lesson>
+	<lesson>Lesson 140. Google maps. Own objects on the map</lesson>
+	<lesson>Lesson 141. Drawing. Access to Canvas</lesson>
+	<lesson>Lesson 142. Drawing. Simple shapes, text</lesson>
+	<lesson>Lesson 143. Drawing. Path</lesson>
+	<lesson>Lesson 144. Drawing. Matrix Transformations</lesson>
+	<lesson>Lesson 145. Drawing. Matrix. setRectToRect and setPolyToPoly</lesson>
+	<lesson>Lesson 146. Drawing. Canvas transformations. Methods save and restore.</lesson>
+	<lesson>Lesson 147. Drawing. Region</lesson>
+	<lesson>Lesson 148. Drawing. Canvas, clip</lesson>
+	<lesson>Lesson 149. Drawing. Text</lesson>
+	<lesson>Lesson 150. Drawing. PathMeasure - information about the Path object</lesson>
+	<lesson>Lesson 151. Drawing. PathEffect</lesson>
+	<lesson>Lesson 152. Drawing. Picture</lesson>
+	<lesson>Lesson 153. Drawing. ColorFilter, ColorMatrix</lesson>
+	<lesson>Lesson 154. Drawing. PorterDuff.Mode, PorterDuffXfermode</lesson>
+	<lesson>Lesson 155. Drawing. PorterDuffColorFilter</lesson>
+	<lesson>Lesson 156. Drawing. AvoidXfermode</lesson>
+	<lesson>Lesson 157. Drawing. Bitmap BitmapFactory. Reading, drawing, basic information</lesson>
+	<lesson>Lesson 158. Drawing. Bitmap CreateBitmap methods, working with pixels, density, mutable</lesson>
+	<lesson>Lesson 159. Drawing. Bitmap BitmapFactory.Options, save to file</lesson>
+	<lesson>Lesson 160. Drawing. Bitmap Reading large images</lesson>
+	<lesson>Lesson 161. Drawing. Bitmap Memory Cache Picasso</lesson>
+	<lesson>Lesson 162. Graphics. Drawable. Shape Gradient.</lesson>
+	<lesson>Lesson 163. Graphics. Drawable. Bitmap, Layer List, State List.</lesson>
+	<lesson>Lesson 164. Graphics. Drawable. Level List, Transition, Inset, Clip, Scale</lesson>
+	<lesson>Lesson 165. Graphics. BitmapShader, LinearGradient, RadialGradient, SweepGradient</lesson>
+	<lesson>Lesson 166. Graphics. Creating your own drawable</lesson>
+	<lesson>Lesson 167. Drawing. Canvas saveLayer method.</lesson>
+	<lesson>Lesson 168. OpenGL. Introduction</lesson>
+	<lesson>Lesson 169. OpenGL. Shaders</lesson>
+	<lesson>Lesson 170. OpenGL. Graphic primitives</lesson>
+	<lesson>Lesson 171. OpenGL. Colour.</lesson>
+	<lesson>Lesson 172. OpenGL. Perspective. Frustum. Ortho.</lesson>
+	<lesson>Lesson 173. OpenGL. Camera</lesson>
+	<lesson>Lesson 174. OpenGL. Model</lesson>
+	<lesson>Lesson 175. OpenGL. Textures.</lesson>
+	<lesson>Lesson 176. OpenGL. Indices, textures for the cube.</lesson>
+	<lesson>Lesson 177. ConstraintLayout. The basics</lesson>
+	<lesson>Lesson 178. ConstraintLayout: match_constraints, tools in the toolbar, guidelines, aspect ratio</lesson>
+	<lesson>Lesson 179. ConstraintLayout: chain, weight, barrier, group, circular</lesson>
+	<lesson>Lesson 180. ConstraintSet. ConstraintLayout software setup</lesson>
+	<lesson>Lesson 181. Android Notifications. Notifications. The basics</lesson>
+	<lesson>Lesson 182. Notifications. Activity Opening Modes</lesson>
+</lessons>

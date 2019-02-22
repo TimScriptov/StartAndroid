@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="AppTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+		<item name="colorAccent">@color/colorAccent</item>
+	</style>
+	<style name="AppTheme_Dark" parent="@style/Theme.AppCompat.NoActionBar">
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+		<item name="colorAccent">@color/colorAccent</item>
+		<item name="android:windowBackground">@color/app_background</item>
+	</style>
+
+	<!-- toolbar style Light-->
+	<style name="toolbar.menu" parent="@android:style/TextAppearance.Widget.IconMenu.Item">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">16dip</item>
+    </style>
+	<style name="toolbar" parent="ThemeOverlay.AppCompat">
+		<item name="android:textColorSecondary">#ffffff</item>
+		<item name="android:textColorPrimary">#ffffff</item>
+		<item name="android:itemTextAppearance">@style/toolbar.menu</item>
+	</style>
+	
+	<!-- toolbar style Dark-->
+	<style name="toolbar_Dark.menu" parent="@android:style/TextAppearance.Widget.IconMenu.Item">
+        <item name="android:textColor">#E0E0E0</item>
+        <item name="android:textSize">16dip</item>
+    </style>
+	<style name="toolbar_Dark" parent="ThemeOverlay.AppCompat">
+		<item name="android:textColorSecondary">#ffffff</item>
+		<item name="android:textColorPrimary">#ffffff</item>
+		<item name="android:itemTextAppearance">@style/toolbar_Dark.menu</item>
+	</style>
+	
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StartAndroid</string>
+	<string name="about">Hakkında</string>
+	<string name="settings">Ayarlar</string>
+	<string name="version">Version:</string>
+	<string name="rate">Rate</string>
+	<string name="more_apps">More apps</string>
+	<string name="search">Search</string>
+	<string name="continue_lesson">Continue</string>
+	<string name="exit">Exit</string>
+	<string name="general">General</string>
+	<string name="appearance">Appearance</string>
+	<string name="font_size">Size</string>
+	<string name="font">Font</string>
+	<string name="copyright">©2018-2019 Ivan Timashkov, Ramzan Elmurzaev</string>
+	<string name="source">Source - startandroid.ru</string>
+    <string name="grid_view">Grid view</string>
+	<string name="bookmarks">Bookmarks</string>
+	<string name="double_back_press">Double back press to exit</string>
+	<string name="double_back_press_summary">Prevent accidental exit from the application</string>
+	<string name="check_updates">Check updates</string>
+	<string name="check_updates_summary">Notify when update is available</string>
+	<string name="fullscreen_mode">Fullscreen mode</string>
+	<string name="night_mode">Night mode</string>
+	<string name="font_type">Type</string>
+	<string name="version_available">Version %s available</string>
+	<string name="update">Update</string>
+	<string name="premium">Premium</string>
+    <string name="thanks">Thanks!</string>
+	<string name="error">Error</string>
+	<string name="no_connection">No internet connection!</string>
+	<string name="close">Close</string>
+	<string name="ads_blocked">Ads failed to load! If you have ad blockers, please turn them off or buy Premium!</string>
+	<string name="mark_as_read">Mark this lesson as read?</string>
+	<string name="yes">Yes</string>
+	<string name="choose_language">Choose language</string>
+	<string name="select_font_size">Select font size</string>
+	<string name="content_language">Language of content</string>
+	<string name="added_to_bookmarks">Lesson %d added to bookmarks</string>
+	<string name="removed_from_bookmarks">Lesson %d removed from bookmarks</string>
+	<string name="marked_as_read">Lesson %d marked as read</string>
+	<string name="press_back_once_more">Press back once more to exit</string>
+	<string name="premium_activated">Premium activated!</string>
+	<string name="purchase_canceled">Purchase canceled!</string>
+	<string name="bookmarks_delete">Bookmark deleted</string>
+	<string name="accept">Accept</string>
+	
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StartAndroid</string>
+	<string name="about">О приложении</string>
+	<string name="settings">Настройки</string>
+	<string name="version">Версия:</string>
+	<string name="rate">Оценить</string>
+	<string name="more_apps">Другие приложения</string>
+	<string name="search">Поиск</string>
+	<string name="continue_lesson">Продолжить</string>
+	<string name="exit">Выйти</string>
+	<string name="general">Основные</string>
+	<string name="appearance">Внешний вид</string>
+	<string name="font_size">Масштаб</string>
+	<string name="font">Шрифт</string>
+	<string name="copyright">©2018-2019 Иван Тимашков, Рамзан Эльмурзаев</string>
+	<string name="source">Источник - startandroid.ru</string>
+    <string name="grid_view">Список в сетку</string>
+	<string name="bookmarks">Закладки</string>
+	<string name="double_back_press">Двойное нажатие для выхода</string>
+	<string name="double_back_press_summary">Предотвратить случайный выход из приложения</string>
+	<string name="check_updates">Проверка обновлений</string>
+	<string name="check_updates_summary">Сообщить о выходе новой версии</string>
+	<string name="fullscreen_mode">Полноэкранный режим</string>
+	<string name="night_mode">Ночной режим</string>
+	<string name="font_type">Тип</string>
+	<string name="version_available">Доступна версия %s</string>
+	<string name="update">Обновить</string>
+	<string name="premium">Premium</string>
+	<string name="thanks">Спасибо!</string>
+	<string name="error">Ошибка</string>
+	<string name="no_connection">Подключение к Интернету отсутствует!</string>
+	<string name="close">Закрыть</string>
+	<string name="ads_blocked">Реклама не загрузилась! Если у вас есть блокировщики рекламы, отключите их или купите Premium!</string>
+	<string name="mark_as_read">Пометить этот урок прочитанным?</string>
+	<string name="yes">Да</string>
+	<string name="content_language">Язык контента</string>
+	<string name="choose_language">Выберите язык</string>
+	<string name="select_font_size">Выберите масштаб шрифта</string>
+	<string name="added_to_bookmarks">Урок %d добавлен в закладки</string>
+	<string name="removed_from_bookmarks">Урок %d удалён из закладок</string>
+	<string name="marked_as_read">Урок %d помечен прочитанным</string>
+	<string name="press_back_once_more">Нажмите еще раз чтобы выйти</string>
+	<string name="premium_activated">Premium активирован!</string>
+	<string name="purchase_canceled">Покупка отменена!</string>
+	<string name="bookmarks_delete">Закладка удалена</string>
+	<string name="accept">Принять</string>
+
+</resources>

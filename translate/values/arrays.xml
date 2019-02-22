@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<string-array name="languages" formatted="false">
+		<item>Русский</item>
+		<item>English</item>
+		<item>Spanish</item>
+		<item>Arabic</item>
+		<item>Deutsch</item>
+		<item>Italian</item>
+		<item>Українська</item>
+		<item>French</item>
+		<item>Chinese</item>
+	</string-array>
+	
+	<string-array name="language_values" formatted="false">
+		<item>ru</item>
+		<item>en</item>
+		<item>es</item>
+		<item>ar</item>
+		<item>de</item>
+		<item>it</item>
+		<item>uk</item>
+		<item>fr</item>
+		<item>zh-CN</item>
+	</string-array>
+	
+	<string-array name="font_size" formatted="false">
+		<item>80%</item>
+		<item>85%</item>
+		<item>90%</item>
+		<item>95%</item>
+		<item>100%</item>
+		<item>105%</item>
+		<item>110%</item>
+		<item>115%</item>
+		<item>120%</item>
+	</string-array>
+	
+</resources>

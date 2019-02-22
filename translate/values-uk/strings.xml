@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Start Android</string>
+	<string name="about">Про додаток</string>
+	<string name="settings">Налаштування</string>
+	<string name="version">Версія:</string>
+	<string name="rate">Оцінити</string>
+	<string name="more_apps">Інші наші додатки</string>
+	<string name="search">Пошук</string>
+	<string name="continue_lesson">Продовжити</string>
+	<string name="exit">Вийти</string>
+	<string name="general">Основні</string>
+	<string name="appearance">Зовнішній вигляд</string>
+	<string name="font_size">Масштаб</string>
+	<string name="font">Шрифт</string>
+	<string name="copyright">©2018-2019 Иван Тимашков, Рамзан Эльмурзаев</string>
+	<string name="source">Джерело - startandroid.ru</string>
+    <string name="grid_view">Список сіткою</string>
+	<string name="bookmarks">Закладки</string>
+	<string name="double_back_press">Подвійне натискання для виходу</string>
+	<string name="double_back_press_summary">Запобігти випадковий вихід з додатку</string>
+	<string name="check_updates">Перевірка оновлень</string>
+	<string name="check_updates_summary">Повідомити про вихід нової версії</string>
+	<string name="fullscreen_mode">Повноекранний режим</string>
+	<string name="night_mode">Нічний режим</string>
+	<string name="font_type">Тип</string>
+	<string name="version_available">Доступна версія %s</string>
+	<string name="update">Оновити</string>
+	<string name="premium">Premium</string>
+	<string name="thanks">Спасибі!</string>
+	<string name="error">Помилка</string>
+	<string name="no_connection">Підключення до Інтернету відсутнє!</string>
+	<string name="close">Закрити</string>
+	<string name="ads_blocked">Реклама не завантажилась! Якщо у вас є блокувальники реклами, вимкніть їх або купіть Premium!</string>
+	<string name="mark_as_read">Відмітити цей урок вже прочитаним?</string>
+	<string name="yes">Так</string>
+	<string name="content_language">Мова контенту</string>
+	<string name="choose_language">Виберіть мову</string>
+	<string name="select_font_size">Виберіть масштаб шрифту</string>
+	<string name="added_to_bookmarks">Урок %d додано в закладки</string>
+	<string name="removed_from_bookmarks">Урок %d видалено з закладок</string>
+	<string name="marked_as_read">Урок %d відмічено прочитаним</string>
+	<string name="press_back_once_more">Натисніть ще раз, щоб вийти</string>
+	<string name="premium_activated">Premium активований!</string>
+	<string name="purchase_canceled">Покупка відмінена!</string>
+	<string name="bookmarks_delete">Закладка видалена</string>
+
+</resources>
