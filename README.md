@@ -1,7 +1,6 @@
 
-StartAndroid
+#  StartAndroid
 
-Переводчики
-
-Украинский - Mr lkso
-Тайский - ThamTvMaster
+### Переводчики
+Украинский - Mr lkso<br>
+Тайский - ThamTvMaster<br>
