@@ -1,6 +1,6 @@
 {
   "lessons":[
-    {
+    
 	"Урок 99. Service. Уведомления - notifications@https://TimScriptov.github.io/StartAndroid/pages/lesson_99.html",
 	"Урок 100. Service. IntentService. Foreground. Автозагрузка сервиса@https://TimScriptov.github.io/StartAndroid/pages/lesson_100.html",
 	"Урок 101. Создаем свой ContentProvider@https://TimScriptov.github.io/StartAndroid/pages/lesson_101.html",
@@ -15,5 +15,5 @@
 	"Урок 110. Android 3. Fragments. DialogFragment - диалог@https://TimScriptov.github.io/StartAndroid/pages/lesson_110.html",
 	"Урок 111. Android 3. Fragments. PreferenceFragment - настройки. Headers@https://TimScriptov.github.io/StartAndroid/pages/lesson_111.html",
 	"Урок 112. Android 3. ActionBar. Динамическое размещение элементов@https://TimScriptov.github.io/StartAndroid/pages/lesson_112.html"
-  }]
+  ]
 }

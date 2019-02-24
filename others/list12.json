@@ -1,6 +1,5 @@
 {
   "lessons":[
-    {
 	"Урок 155. Рисование. PorterDuffColorFilter@https://TimScriptov.github.io/StartAndroid/pages/lesson_155.html"
 	"Урок 156. Рисование. AvoidXfermode@https://TimScriptov.github.io/StartAndroid/pages/lesson_156.html"
 	"Урок 157. Рисование. Bitmap. BitmapFactory. Чтение, вывод на канву, основная информация@https://TimScriptov.github.io/StartAndroid/pages/lesson_157.html",
@@ -15,5 +14,5 @@
 	"Урок 166. Графика. Создание своего Drawable@https://TimScriptov.github.io/StartAndroid/pages/lesson_166.html",
 	"Урок 167. Рисование. Метод Canvas saveLayer.@https://TimScriptov.github.io/StartAndroid/pages/lesson_167.html",
 	"Урок 168. OpenGL. Введение.@https://TimScriptov.github.io/StartAndroid/pages/lesson_168.html"
-  }]
+  ]
 }

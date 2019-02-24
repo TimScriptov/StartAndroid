@@ -1,7 +1,6 @@
 {
   "lessons":[
-    {
-	"Урок 127. Медиа. SoundPool@https://TimScriptov.github.io/StartAndroid/pages/lesson_127.html",
+	"Урок 127. МедиаМедиаМедиаМедиа. SoundPool@https://TimScriptov.github.io/StartAndroid/pages/lesson_127.html",
 	"Урок 128. Медиа. Audio Focus@https://TimScriptov.github.io/StartAndroid/pages/lesson_128.html",
 	"Урок 129. Медиа. Запись звука с помощью MediaRecorder@https://TimScriptov.github.io/StartAndroid/pages/lesson_129.html",
 	"Урок 130. Медиа. Запись звука с помощью AudioRecorder@https://TimScriptov.github.io/StartAndroid/pages/lesson_130.html",
@@ -15,5 +14,5 @@
 	"Урок 138. Определение местоположения. GPS координаты.@https://TimScriptov.github.io/StartAndroid/pages/lesson_138.html",
 	"Урок 139. Google maps. Создание и настройка проекта. Карта, камера, события@https://TimScriptov.github.io/StartAndroid/pages/lesson_139.html",
 	"Урок 140. Google maps. Свои объекты на карте@https://TimScriptov.github.io/StartAndroid/pages/lesson_140.html"
-  }]
+  ]
 }

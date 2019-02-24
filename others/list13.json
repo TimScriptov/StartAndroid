@@ -1,6 +1,6 @@
 {
   "lessons":[
-    {
+    
 	"Урок 169. OpenGL. Шейдеры@https://TimScriptov.github.io/StartAndroid/pages/lesson_169.html",
 	"Урок 170. OpenGL. Графические примитивы@https://TimScriptov.github.io/StartAndroid/pages/lesson_170.html",
 	"Урок 171. OpenGL. Цвет.@https://TimScriptov.github.io/StartAndroid/pages/lesson_171.html",
@@ -10,5 +10,5 @@
 	"Урок 175. OpenGL. Текстуры.@https://TimScriptov.github.io/StartAndroid/pages/lesson_175.html",
 	"Урок 176. OpenGL. Индексы, текстуры для куба.@https://TimScriptov.github.io/StartAndroid/pages/lesson_176.html",
 	"Урок 177. ConstraintLayout. Основы@https://TimScriptov.github.io/StartAndroid/pages/lesson_177.html"
-  }]
+  ]
 }

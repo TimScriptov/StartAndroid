@@ -1,6 +1,6 @@
 {
   "lessons":[
-    {
+    
 	"Урок 28. Extras - передаем данные с помощью Intent@https://TimScriptov.github.io/StartAndroid/pages/lesson_28.html",
 	"Урок 29. Вызываем Activity и получаем результат. Метод startActivityForResult@https://TimScriptov.github.io/StartAndroid/pages/lesson_29.html",
 	"Урок 30. Подробнее про onActivityResult. Зачем нужны requestCode и resultCode@https://TimScriptov.github.io/StartAndroid/pages/lesson_30.html",
@@ -16,5 +16,5 @@
 	"Урок 40. LayoutInflater. Учимся использовать.@https://TimScriptov.github.io/StartAndroid/pages/lesson_40.html",
 	"Урок 41. Используем LayoutInflater для создания списка@https://TimScriptov.github.io/StartAndroid/pages/lesson_41.html",
 	"Урок 42. Список - ListView@https://TimScriptov.github.io/StartAndroid/pages/lesson_42.html"
-  }]
+  ]
 }
