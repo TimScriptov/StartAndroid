@@ -1,18 +1,59 @@
 {
   "lessons":[
-	"Урок 127. МедиаМедиаМедиаМедиа. SoundPool@https://TimScriptov.github.io/StartAndroid/pages/lesson_127.html",
-	"Урок 128. Медиа. Audio Focus@https://TimScriptov.github.io/StartAndroid/pages/lesson_128.html",
-	"Урок 129. Медиа. Запись звука с помощью MediaRecorder@https://TimScriptov.github.io/StartAndroid/pages/lesson_129.html",
-	"Урок 130. Медиа. Запись звука с помощью AudioRecorder@https://TimScriptov.github.io/StartAndroid/pages/lesson_130.html",
-	"Урок 131. Камера. Используем системное приложение@https://TimScriptov.github.io/StartAndroid/pages/lesson_131.html",
-	"Урок 132. Камера. Вывод изображения на экран. Размер preview. Обработка поворота устройства@https://TimScriptov.github.io/StartAndroid/pages/lesson_132.html",
-	"Урок 133. Камера. Делаем снимок и пишем видео@https://TimScriptov.github.io/StartAndroid/pages/lesson_133.html",
-	"Урок 134. Камера. Настройки@https://TimScriptov.github.io/StartAndroid/pages/lesson_134.html",
-	"Урок 135. Loader. LoaderManager. AsyncTaskLoader@https://TimScriptov.github.io/StartAndroid/pages/lesson_135.html",
-	"Урок 136. CursorLoader@https://TimScriptov.github.io/StartAndroid/pages/lesson_136.html",
-	"Урок 137. Сенсоры. Ускорение, ориентация.@https://TimScriptov.github.io/StartAndroid/pages/lesson_137.html",
-	"Урок 138. Определение местоположения. GPS координаты.@https://TimScriptov.github.io/StartAndroid/pages/lesson_138.html",
-	"Урок 139. Google maps. Создание и настройка проекта. Карта, камера, события@https://TimScriptov.github.io/StartAndroid/pages/lesson_139.html",
-	"Урок 140. Google maps. Свои объекты на карте@https://TimScriptov.github.io/StartAndroid/pages/lesson_140.html"
+  {
+  	"number" : 127,
+  	"name" : "Медиа. SoundPool"
+  },
+  {
+  	"number" : 128,
+  	"name" : "Медиа. Audio Focus"
+  },
+  {
+  	"number" : 129,
+  	"name" : "Медиа. Запись звука с помощью MediaRecorder"
+  },
+  {
+  	"number" : 130,
+  	"name" : "Медиа. Запись звука с помощью AudioRecorder"
+  },
+  {
+  	"number" : 131,
+  	"neme" : "Камера. Используем системное приложение"
+  },
+  {
+  	"number" : 132,
+  	"name" : "Камера. Вывод изображения на экран. Размер preview. Обработка поворота устройства"
+  },
+  {
+  	"number" : 133,
+  	"number" : "Камера. Делаем снимок и пишем видео"
+  },
+  {
+  	"number" : 134,
+  	"name" : "Камера. Настройки"
+  },
+  {
+  	"number" : 135,
+  	"name" : "Loader. LoaderManager. AsyncTaskLoader."
+  },
+  {
+  	"number" : 136,
+  	"name" : "CursorLoader"
+  },
+  {
+  	"number" : 137,
+  	"name" : "Сенсоры. Ускорение, ориентация."
+  },
+  {
+  	"number" : 138,
+  	"name" : "Определение местоположения. GPS координаты."
+  },
+  {
+  	"number" : 139,
+  	"name" : "Google maps. Создание и настройка проекта. Карта, камера, события."
+  },
+  {
+  	"number" : 140,
+  	"name" : "Google maps. Свои объекты на карте."
   ]
 }

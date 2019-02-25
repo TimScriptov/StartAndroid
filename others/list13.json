@@ -1,14 +1,14 @@
 {
   "lessons":[
     
-	"Урок 169. OpenGL. Шейдеры@https://TimScriptov.github.io/StartAndroid/pages/lesson_169.html",
-	"Урок 170. OpenGL. Графические примитивы@https://TimScriptov.github.io/StartAndroid/pages/lesson_170.html",
-	"Урок 171. OpenGL. Цвет.@https://TimScriptov.github.io/StartAndroid/pages/lesson_171.html",
-	"Урок 172. OpenGL. Perspective. Frustum. Ortho.@https://TimScriptov.github.io/StartAndroid/pages/lesson_172.html",
-	"Урок 173. OpenGL. Камера@https://TimScriptov.github.io/StartAndroid/pages/lesson_173.html",
-	"Урок 174. OpenGL. Модель@https://TimScriptov.github.io/StartAndroid/pages/lesson_174.html",
-	"Урок 175. OpenGL. Текстуры.@https://TimScriptov.github.io/StartAndroid/pages/lesson_175.html",
-	"Урок 176. OpenGL. Индексы, текстуры для куба.@https://TimScriptov.github.io/StartAndroid/pages/lesson_176.html",
-	"Урок 177. ConstraintLayout. Основы@https://TimScriptov.github.io/StartAndroid/pages/lesson_177.html"
+	"number" : 169. OpenGL. Шейдеры@https://TimScriptov.github.io/StartAndroid/pages/lesson_169.html",
+	"number" : 170. OpenGL. Графические примитивы@https://TimScriptov.github.io/StartAndroid/pages/lesson_170.html",
+	"number" : 171. OpenGL. Цвет.@https://TimScriptov.github.io/StartAndroid/pages/lesson_171.html",
+	"number" : 172. OpenGL. Perspective. Frustum. Ortho.@https://TimScriptov.github.io/StartAndroid/pages/lesson_172.html",
+	"number" : 173. OpenGL. Камера@https://TimScriptov.github.io/StartAndroid/pages/lesson_173.html",
+	"number" : 174. OpenGL. Модель@https://TimScriptov.github.io/StartAndroid/pages/lesson_174.html",
+	"number" : 175. OpenGL. Текстуры.@https://TimScriptov.github.io/StartAndroid/pages/lesson_175.html",
+	"number" : 176. OpenGL. Индексы, текстуры для куба.@https://TimScriptov.github.io/StartAndroid/pages/lesson_176.html",
+	"number" : 177. ConstraintLayout. Основы@https://TimScriptov.github.io/StartAndroid/pages/lesson_177.html"
   ]
 }

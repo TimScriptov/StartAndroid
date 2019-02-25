@@ -1,19 +1,19 @@
 {
   "lessons":[
     
-	"Урок 85. Еще несколько способов выполнения кода в UI-потоке@https://TimScriptov.github.io/StartAndroid/pages/lesson_85.html",
-	"Урок 86. AsyncTask. Знакомство, несложный пример@https://TimScriptov.github.io/StartAndroid/pages/lesson_86.html",
-	"Урок 87. AsyncTask. Параметры. Промежуточные результаты@https://TimScriptov.github.io/StartAndroid/pages/lesson_87.html",
-	"Урок 88. AsyncTask. Итоговый результат. Метод get@https://TimScriptov.github.io/StartAndroid/pages/lesson_88.html",
-	"Урок 89. AsyncTask. Cancel – отменяем задачу в процессе выполнения@https://TimScriptov.github.io/StartAndroid/pages/lesson_89.html",
-	"Урок 90. AsyncTask. Status – статусы задачи@https://TimScriptov.github.io/StartAndroid/pages/lesson_90.html",
-	"Урок 91. AsyncTask. Поворот экрана@https://TimScriptov.github.io/StartAndroid/pages/lesson_91.html",
-	"Урок 92. Service. Простой пример@https://TimScriptov.github.io/StartAndroid/pages/lesson_92.html",
-	"Урок 93. Service. Передача данных в сервис. Методы остановки сервиса@https://TimScriptov.github.io/StartAndroid/pages/lesson_93.html",
-	"Урок 94. Service. Подробно про onStartCommand@https://TimScriptov.github.io/StartAndroid/pages/lesson_94.html",
-	"Урок 95. Service. Обратная связь с помощью PendingIntent@https://TimScriptov.github.io/StartAndroid/pages/lesson_95.html",
-	"Урок 96. Service. Обратная связь с помощью BroadcastReceiver@https://TimScriptov.github.io/StartAndroid/pages/lesson_96.html",
-	"Урок 97. Service. Биндинг. ServiceConnection@https://TimScriptov.github.io/StartAndroid/pages/lesson_97.html",
-	"Урок 98. Service. Локальный биндинг@https://TimScriptov.github.io/StartAndroid/pages/lesson_98.html"
+	"number" : "85. Еще несколько способов выполнения кода в UI-потоке@https://TimScriptov.github.io/StartAndroid/pages/lesson_85.html",
+	"number" : "86. AsyncTask. Знакомство, несложный пример@https://TimScriptov.github.io/StartAndroid/pages/lesson_86.html",
+	"number" : "87. AsyncTask. Параметры. Промежуточные результаты@https://TimScriptov.github.io/StartAndroid/pages/lesson_87.html",
+	"number" : "88. AsyncTask. Итоговый результат. Метод get@https://TimScriptov.github.io/StartAndroid/pages/lesson_88.html",
+	"number" : "89. AsyncTask. Cancel – отменяем задачу в процессе выполнения@https://TimScriptov.github.io/StartAndroid/pages/lesson_89.html",
+	"number" : "90. AsyncTask. Status – статусы задачи@https://TimScriptov.github.io/StartAndroid/pages/lesson_90.html",
+	"number" : "91. AsyncTask. Поворот экрана@https://TimScriptov.github.io/StartAndroid/pages/lesson_91.html",
+	"number" : "92. Service. Простой пример@https://TimScriptov.github.io/StartAndroid/pages/lesson_92.html",
+	"number" : "93. Service. Передача данных в сервис. Методы остановки сервиса@https://TimScriptov.github.io/StartAndroid/pages/lesson_93.html",
+	"number" : "94. Service. Подробно про onStartCommand@https://TimScriptov.github.io/StartAndroid/pages/lesson_94.html",
+	"number" : "95. Service. Обратная связь с помощью PendingIntent@https://TimScriptov.github.io/StartAndroid/pages/lesson_95.html",
+	"number" : "96. Service. Обратная связь с помощью BroadcastReceiver@https://TimScriptov.github.io/StartAndroid/pages/lesson_96.html",
+	"number" : "97. Service. Биндинг. ServiceConnection@https://TimScriptov.github.io/StartAndroid/pages/lesson_97.html",
+	"number" : "98. Service. Локальный биндинг@https://TimScriptov.github.io/StartAndroid/pages/lesson_98.html"
   ]
 }

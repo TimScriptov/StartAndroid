@@ -1,19 +1,19 @@
 {
   "lessons":[
     
-	"Урок 57. GridView и его атрибуты@https://TimScriptov.github.io/StartAndroid/pages/lesson_57.html",
-	"Урок 58. Диалоги. TimePickerDialog@https://TimScriptov.github.io/StartAndroid/pages/lesson_58.html",
-	"Урок 59. Диалоги. DatePickerDialog@https://TimScriptov.github.io/StartAndroid/pages/lesson_59.html",
-	"Урок 60. Диалоги. AlertDialog: Title, Message, Icon, Buttons@https://TimScriptov.github.io/StartAndroid/pages/lesson_60.html",
-	"Урок 61. Диалоги. AlertDialog.Метод onPrepareDialog@https://TimScriptov.github.io/StartAndroid/pages/lesson_61.html",
-	"Урок 62. Диалоги. AlertDialog. Список@https://TimScriptov.github.io/StartAndroid/pages/lesson_62.html",
-	"Урок 63. Диалоги. AlertDialog. Список с одиночным выбором@https://TimScriptov.github.io/StartAndroid/pages/lesson_63.html",
-	"Урок 64. Диалоги. AlertDialog. Список с множественным выбором@https://TimScriptov.github.io/StartAndroid/pages/lesson_64.html",
-	"Урок 65. Диалоги. AlertDialog. Кастомизация@https://TimScriptov.github.io/StartAndroid/pages/lesson_65.html",
-	"Урок 66. Диалоги. Обработчики и операции@https://TimScriptov.github.io/StartAndroid/pages/lesson_66.html",
-	"Урок 67. Диалоги. ProgressDialog@https://TimScriptov.github.io/StartAndroid/pages/lesson_67.html",
-	"Урок 68. Немного о Parcel@https://TimScriptov.github.io/StartAndroid/pages/lesson_68.html",
-	"Урок 69. Передаем Parcelable объекты с помощью Intent@https://TimScriptov.github.io/StartAndroid/pages/lesson_69.html",
-	"Урок 70. onSaveInstanceState. Сохранение данных Activity при повороте экрана@https://TimScriptov.github.io/StartAndroid/pages/lesson_70.html"
+	"number" : 57. GridView и его атрибуты@https://TimScriptov.github.io/StartAndroid/pages/lesson_57.html",
+	"number" : 58. Диалоги. TimePickerDialog@https://TimScriptov.github.io/StartAndroid/pages/lesson_58.html",
+	"number" : 59. Диалоги. DatePickerDialog@https://TimScriptov.github.io/StartAndroid/pages/lesson_59.html",
+	"number" : 60. Диалоги. AlertDialog: Title, Message, Icon, Buttons@https://TimScriptov.github.io/StartAndroid/pages/lesson_60.html",
+	"number" : 61. Диалоги. AlertDialog.Метод onPrepareDialog@https://TimScriptov.github.io/StartAndroid/pages/lesson_61.html",
+	"number" : 62. Диалоги. AlertDialog. Список@https://TimScriptov.github.io/StartAndroid/pages/lesson_62.html",
+	"number" : 63. Диалоги. AlertDialog. Список с одиночным выбором@https://TimScriptov.github.io/StartAndroid/pages/lesson_63.html",
+	"number" : 64. Диалоги. AlertDialog. Список с множественным выбором@https://TimScriptov.github.io/StartAndroid/pages/lesson_64.html",
+	"number" : 65. Диалоги. AlertDialog. Кастомизация@https://TimScriptov.github.io/StartAndroid/pages/lesson_65.html",
+	"number" : 66. Диалоги. Обработчики и операции@https://TimScriptov.github.io/StartAndroid/pages/lesson_66.html",
+	"number" : 67. Диалоги. ProgressDialog@https://TimScriptov.github.io/StartAndroid/pages/lesson_67.html",
+	"number" : 68. Немного о Parcel@https://TimScriptov.github.io/StartAndroid/pages/lesson_68.html",
+	"number" : 69. Передаем Parcelable объекты с помощью Intent@https://TimScriptov.github.io/StartAndroid/pages/lesson_69.html",
+	"number" : 70. onSaveInstanceState. Сохранение данных Activity при повороте экрана@https://TimScriptov.github.io/StartAndroid/pages/lesson_70.html"
   ]
 }

@@ -1,18 +1,18 @@
 {
   "lessons":[
-	"Урок 155. Рисование. PorterDuffColorFilter@https://TimScriptov.github.io/StartAndroid/pages/lesson_155.html"
-	"Урок 156. Рисование. AvoidXfermode@https://TimScriptov.github.io/StartAndroid/pages/lesson_156.html"
-	"Урок 157. Рисование. Bitmap. BitmapFactory. Чтение, вывод на канву, основная информация@https://TimScriptov.github.io/StartAndroid/pages/lesson_157.html",
-	"Урок 158. Рисование. Bitmap. Методы createBitmap, работа с пикселами, density, mutable@https://TimScriptov.github.io/StartAndroid/pages/lesson_158.html",
-	"Урок 159. Рисование. Bitmap. BitmapFactory.Options, сохранение в файл@https://TimScriptov.github.io/StartAndroid/pages/lesson_159.html",
-	"Урок 160. Рисование. Bitmap. Чтение изображений большого размера@https://TimScriptov.github.io/StartAndroid/pages/lesson_160.html",
-	"Урок 161. Рисование. Bitmap. Memory-кэш. Picasso@https://TimScriptov.github.io/StartAndroid/pages/lesson_161.html",
-	"Урок 162. Графика. Drawable. Shape, Gradient.@https://TimScriptov.github.io/StartAndroid/pages/lesson_162.html",
-	"Урок 163. Графика. Drawable. Bitmap, Layer List, State List.@https://TimScriptov.github.io/StartAndroid/pages/lesson_163.html",
-	"Урок 164. Графика. Drawable. Level List, Transition, Inset, Clip, Scale@https://TimScriptov.github.io/StartAndroid/pages/lesson_164.html",
-	"Урок 165. Графика. BitmapShader, LinearGradient, RadialGradient, SweepGradient@https://TimScriptov.github.io/StartAndroid/pages/lesson_165.html",
-	"Урок 166. Графика. Создание своего Drawable@https://TimScriptov.github.io/StartAndroid/pages/lesson_166.html",
-	"Урок 167. Рисование. Метод Canvas saveLayer.@https://TimScriptov.github.io/StartAndroid/pages/lesson_167.html",
-	"Урок 168. OpenGL. Введение.@https://TimScriptov.github.io/StartAndroid/pages/lesson_168.html"
+	"number" : "155. Рисование. PorterDuffColorFilter@https://TimScriptov.github.io/StartAndroid/pages/lesson_155.html"
+	"number" : "156. Рисование. AvoidXfermode@https://TimScriptov.github.io/StartAndroid/pages/lesson_156.html"
+	"number" : "157. Рисование. Bitmap. BitmapFactory. Чтение, вывод на канву, основная информация@https://TimScriptov.github.io/StartAndroid/pages/lesson_157.html",
+	"number" : "158. Рисование. Bitmap. Методы createBitmap, работа с пикселами, density, mutable@https://TimScriptov.github.io/StartAndroid/pages/lesson_158.html",
+	"number" : "159. Рисование. Bitmap. BitmapFactory.Options, сохранение в файл@https://TimScriptov.github.io/StartAndroid/pages/lesson_159.html",
+	"number" : "160. Рисование. Bitmap. Чтение изображений большого размера@https://TimScriptov.github.io/StartAndroid/pages/lesson_160.html",
+	"number" : "161. Рисование. Bitmap. Memory-кэш. Picasso@https://TimScriptov.github.io/StartAndroid/pages/lesson_161.html",
+	"number" : "162. Графика. Drawable. Shape, Gradient.@https://TimScriptov.github.io/StartAndroid/pages/lesson_162.html",
+	"number" : "163. Графика. Drawable. Bitmap, Layer List, State List.@https://TimScriptov.github.io/StartAndroid/pages/lesson_163.html",
+	"number" : "164. Графика. Drawable. Level List, Transition, Inset, Clip, Scale@https://TimScriptov.github.io/StartAndroid/pages/lesson_164.html",
+	"number" : "165. Графика. BitmapShader, LinearGradient, RadialGradient, SweepGradient@https://TimScriptov.github.io/StartAndroid/pages/lesson_165.html",
+	"number" : "166. Графика. Создание своего Drawable@https://TimScriptov.github.io/StartAndroid/pages/lesson_166.html",
+	"number" : "167. Рисование. Метод Canvas saveLayer.@https://TimScriptov.github.io/StartAndroid/pages/lesson_167.html",
+	"number" : "168. OpenGL. Введение.@https://TimScriptov.github.io/StartAndroid/pages/lesson_168.html"
   ]
 }
