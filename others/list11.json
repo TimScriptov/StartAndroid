@@ -1,6 +1,6 @@
 {
-  "lessons":[
-  {
+  "lessons" :
+  [{
   	"number" : 141,
   	"name" : "Рисование. Доступ к Canvas"
   },
@@ -55,5 +55,5 @@
   {
   	"number" : 154,
   	"name" : "Рисование. PorterDuff.Mode, PorterDuffXfermode"
-  ]
+  }]
 }

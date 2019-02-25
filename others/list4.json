@@ -1,19 +1,59 @@
 {
-  "lessons":[
-    
-	"number" : 43. Одиночный и множественный выбор в ListView@https://TimScriptov.github.io/StartAndroid/pages/lesson_43.html",
-	"number" : 44. События в ListView@https://TimScriptov.github.io/StartAndroid/pages/lesson_44.html",
-	"number" : 45. Список-дерево ExpandableListView@https://TimScriptov.github.io/StartAndroid/pages/lesson_45.html",
-	"number" : 46. События ExpandableListView@https://TimScriptov.github.io/StartAndroid/pages/lesson_46.html",
-	"number" : 47. Обзор адаптеров@https://TimScriptov.github.io/StartAndroid/pages/lesson_47.html",
-	"number" : 48. Используем SimpleAdapter.@https://TimScriptov.github.io/StartAndroid/pages/lesson_48.html",
-	"number" : 49. SimpleAdapter. Методы SetViewText и SetViewImage@https://TimScriptov.github.io/StartAndroid/pages/lesson_49.html",
-	"number" : 50. SimpleAdapter. Используем ViewBinder@https://TimScriptov.github.io/StartAndroid/pages/lesson_50.html",
-	"number" : 51. SimpleAdapter, добавление и удаление записей@https://TimScriptov.github.io/StartAndroid/pages/lesson_51.html",
-	"number" : 52. SimpleCursorAdapter, пример использования@https://TimScriptov.github.io/StartAndroid/pages/lesson_52.html",
-	"number" : 53. SimpleCursorTreeAdapter, пример использования@https://TimScriptov.github.io/StartAndroid/pages/lesson_53.html",
-	"number" : 54. Кастомизация списка. Создаем свой адаптер@https://TimScriptov.github.io/StartAndroid/pages/lesson_54.html",
-	"number" : 55. Header и Footer в списках. HeaderViewListAdapter@https://TimScriptov.github.io/StartAndroid/pages/lesson_55.html",
-	"number" : 56. Spinner – выпадающий список@https://TimScriptov.github.io/StartAndroid/pages/lesson_56.html"
-  ]
+  "lessons" :
+  [{
+  	"number" : 43,
+  	"name": "Одиночный и множественный выбор в ListView."
+  },
+  {
+  	"number" : 44,
+  	"name": "События в ListView."
+  },
+  {
+  	"number" : 45,
+  	"name": "Список-дерево ExpandableListView."
+  },
+  {
+  	"number" : 46,
+  	"name": "События ExpandableListView."
+  },
+  {
+  	"number" : 47,
+  	"name": "Обзор адаптеров.
+  },
+  {
+  	"number" : 48,
+  	"name": "Используем SimpleAdapter."
+  },
+  {
+  	"number" : 49,
+  	"name": "SimpleAdapter. Методы SetViewText и SetViewImage."
+  },
+  {
+  	"number" : 50,
+  	"name": "SimpleAdapter. Используем ViewBinder."
+  },
+  {
+  	"number" : 51,
+  	"name": "SimpleAdapter, добавление и удаление записей."
+  },
+  {
+  	"number" : 52,
+  	"name": "SimpleCursorAdapter, пример использования."
+  },
+  {
+  	"number" : 53,
+  	"name": "SimpleCursorTreeAdapter, пример использования."
+  },
+  {
+  	"number" : 54,
+  	"name": "Кастомизация списка. Создаем свой адаптер."
+  },
+  {
+  	"number" : 55,
+  	"name": "Header и Footer в списках. HeaderViewListAdapter."
+  },
+  {
+  	"number" : 56,
+  	"name": "Spinner – выпадающий список."
+  }]
 }

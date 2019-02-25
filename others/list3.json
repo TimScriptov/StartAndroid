@@ -1,20 +1,63 @@
 {
-  "lessons":[
-    
-	"number" : 28. Extras - передаем данные с помощью Intent@https://TimScriptov.github.io/StartAndroid/pages/lesson_28.html",
-	"number" : 29. Вызываем Activity и получаем результат. Метод startActivityForResult@https://TimScriptov.github.io/StartAndroid/pages/lesson_29.html",
-	"number" : 30. Подробнее про onActivityResult. Зачем нужны requestCode и resultCode@https://TimScriptov.github.io/StartAndroid/pages/lesson_30.html",
-	"number" : 31. Зачем у Intent есть атрибут data. Что такое Uri. Вызываем системные приложения@https://TimScriptov.github.io/StartAndroid/pages/lesson_31.html",
-	"number" : 32. Пишем простой браузер@https://TimScriptov.github.io/StartAndroid/pages/lesson_32.html",
-	"number" : 33. Хранение данных. Preferences.@https://TimScriptov.github.io/StartAndroid/pages/lesson_33.html",
-	"number" : 34. Хранение данных. SQLite@https://TimScriptov.github.io/StartAndroid/pages/lesson_34.html",
-	"number" : 35. SQLite. Методы update и delete с указанием условия@https://TimScriptov.github.io/StartAndroid/pages/lesson_35.html",
-	"number" : 36. SQLite. Подробнее про метод query. Условие, сортировка, группировка@https://TimScriptov.github.io/StartAndroid/pages/lesson_36.html",
-	"number" : 37. Запросы из связанных таблиц. INNER JOIN в SQLite. Метод rawQuery.@https://TimScriptov.github.io/StartAndroid/pages/lesson_37.html",
-	"number" : 38. Транзакции в SQLite. Небольшой FAQ по SQLite.@https://TimScriptov.github.io/StartAndroid/pages/lesson_38.html",
-	"number" : 39. onUpgrade. Обновляем БД в SQLite@https://TimScriptov.github.io/StartAndroid/pages/lesson_39.html",
-	"number" : 40. LayoutInflater. Учимся использовать.@https://TimScriptov.github.io/StartAndroid/pages/lesson_40.html",
-	"number" : 41. Используем LayoutInflater для создания списка@https://TimScriptov.github.io/StartAndroid/pages/lesson_41.html",
-	"number" : 42. Список - ListView@https://TimScriptov.github.io/StartAndroid/pages/lesson_42.html"
-  ]
+  "lessons" :
+  [{
+  	"number" : 28,
+  	"name": "Extras - передаем данные с помощью Intent."
+  },
+  {
+  	"number" : 29,
+  	"name": "Вызываем Activity и получаем результат. Метод startActivityForResult."
+  },
+  {
+  	"number" : 30,
+  	"name": "Подробнее про onActivityResult. Зачем нужны requestCode и resultCode."
+  },
+  {
+  	"number" : 31,
+  	"name": "Зачем у Intent есть атрибут data. Что такое Uri. Вызываем системные приложения."
+  },
+  {
+  	"number" : 32,
+  	"name": "Пишем простой браузер."
+  },
+  {
+  	"number" : 33,
+  	"name": "Хранение данных. Preferences."
+  },
+  {
+  	"number" : 34,
+  	"name": "Хранение данных. SQLite."
+  },
+  {
+  	"number" : 35,
+  	"name": "SQLite. Методы update и delete с указанием условия."
+  },
+  {
+  	"number" : 36,
+  	"name": "SQLite. Подробнее про метод query. Условие, сортировка, группировка."
+  },
+  {
+  	"number" : 37,
+  	"name": "Запросы из связанных таблиц. INNER JOIN в SQLite. Метод rawQuery."
+  },
+  {
+  	"number" : 38,
+  	"name": "Транзакции в SQLite. Небольшой FAQ по SQLite."
+  },
+  {
+  	"number" : 39,
+  	"name": "onUpgrade. Обновляем БД в SQLite."
+  },
+  {
+  	"number" : 40,
+  	"name": "LayoutInflater. Учимся использовать."
+  },
+  {
+  	"number" : 41,
+  	"name": "Используем LayoutInflater для создания списка."
+  },
+  {
+  	"number" : 42,
+  	"name": "Список - ListView."
+  }]
 }

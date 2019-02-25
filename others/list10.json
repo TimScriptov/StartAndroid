@@ -1,6 +1,6 @@
 {
-  "lessons":[
-  {
+  "lessons" :
+  [{
   	"number" : 127,
   	"name" : "Медиа. SoundPool"
   },
@@ -55,5 +55,5 @@
   {
   	"number" : 140,
   	"name" : "Google maps. Свои объекты на карте."
-  ]
+  }]
 }

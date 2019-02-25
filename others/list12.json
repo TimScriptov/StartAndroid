@@ -1,18 +1,59 @@
 {
-  "lessons":[
-	"number" : "155. Рисование. PorterDuffColorFilter@https://TimScriptov.github.io/StartAndroid/pages/lesson_155.html"
-	"number" : "156. Рисование. AvoidXfermode@https://TimScriptov.github.io/StartAndroid/pages/lesson_156.html"
-	"number" : "157. Рисование. Bitmap. BitmapFactory. Чтение, вывод на канву, основная информация@https://TimScriptov.github.io/StartAndroid/pages/lesson_157.html",
-	"number" : "158. Рисование. Bitmap. Методы createBitmap, работа с пикселами, density, mutable@https://TimScriptov.github.io/StartAndroid/pages/lesson_158.html",
-	"number" : "159. Рисование. Bitmap. BitmapFactory.Options, сохранение в файл@https://TimScriptov.github.io/StartAndroid/pages/lesson_159.html",
-	"number" : "160. Рисование. Bitmap. Чтение изображений большого размера@https://TimScriptov.github.io/StartAndroid/pages/lesson_160.html",
-	"number" : "161. Рисование. Bitmap. Memory-кэш. Picasso@https://TimScriptov.github.io/StartAndroid/pages/lesson_161.html",
-	"number" : "162. Графика. Drawable. Shape, Gradient.@https://TimScriptov.github.io/StartAndroid/pages/lesson_162.html",
-	"number" : "163. Графика. Drawable. Bitmap, Layer List, State List.@https://TimScriptov.github.io/StartAndroid/pages/lesson_163.html",
-	"number" : "164. Графика. Drawable. Level List, Transition, Inset, Clip, Scale@https://TimScriptov.github.io/StartAndroid/pages/lesson_164.html",
-	"number" : "165. Графика. BitmapShader, LinearGradient, RadialGradient, SweepGradient@https://TimScriptov.github.io/StartAndroid/pages/lesson_165.html",
-	"number" : "166. Графика. Создание своего Drawable@https://TimScriptov.github.io/StartAndroid/pages/lesson_166.html",
-	"number" : "167. Рисование. Метод Canvas saveLayer.@https://TimScriptov.github.io/StartAndroid/pages/lesson_167.html",
-	"number" : "168. OpenGL. Введение.@https://TimScriptov.github.io/StartAndroid/pages/lesson_168.html"
-  ]
+  "lessons" :
+  [{
+  	"number" : 155,
+  	"name" = "Рисование. PorterDuffColorFilter"
+  },
+  {
+  	"number" : 156,
+  	"name" : "Рисование. AvoidXfermode"
+  },
+  {
+  	"number" : 157,
+  	"name" : "Рисование. Bitmap. BitmapFactory. Чтение, вывод на канву, основная информация"
+  },
+  {
+  	"number" : 158,
+  	"name" : "Рисование. Bitmap. Методы createBitmap, работа с пикселами, density, mutable"
+  },
+  {
+  	"number" : 159,
+  	"name" : "Рисование. Bitmap. BitmapFactory.Options, сохранение в файл"
+  },
+  {
+  	"number" : 160,
+  	"name" : "Рисование. Bitmap. Чтение изображений большого размера"
+  },
+  {
+  	"number" : 161,
+  	"name" : "Рисование. Bitmap. Memory-кэш. Picasso"
+  },
+  {
+  	"number" : 162,
+  	"name" : "Графика. Drawable. Shape, Gradient."
+  },
+  {
+  	"number" : 163,
+  	"name" : "Графика. Drawable. Bitmap, Layer List, State List."
+  },
+  {
+  	"number" : 164,
+  	"name" : "Графика. Drawable. Level List, Transition, Inset, Clip, Scale"
+  },
+  {
+  	"number" : 165,
+  	"name" : "Графика. BitmapShader, LinearGradient, RadialGradient, SweepGradient"
+  },
+  {
+  	"number" : 166,
+  	"name" : "Графика. Создание своего Drawable"
+  },
+  {
+  	"number" : 167,
+  	"name" : "Рисование. Метод Canvas saveLayer."
+  },
+  {
+  	"number" : 168,
+  	"name" : "OpenGL. Введение."
+  }]
 }

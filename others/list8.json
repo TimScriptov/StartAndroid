@@ -1,19 +1,59 @@
 {
-  "lessons":[
-    
-	"number" : "99. Service. Уведомления - notifications@https://TimScriptov.github.io/StartAndroid/pages/lesson_99.html",
-	"number" : "100. Service. IntentService. Foreground. Автозагрузка сервиса@https://TimScriptov.github.io/StartAndroid/pages/lesson_100.html",
-	"number" : "101. Создаем свой ContentProvider@https://TimScriptov.github.io/StartAndroid/pages/lesson_101.html",
-	"number" : "102. Touch – обработка касания@https://TimScriptov.github.io/StartAndroid/pages/lesson_102.html",
-	"number" : "103. MultiTouch – обработка множественных касаний@https://TimScriptov.github.io/StartAndroid/pages/lesson_103.html",
-	"number" : "104. Android 3. Fragments. Lifecycle@https://TimScriptov.github.io/StartAndroid/pages/lesson_104.html",
-	"number" : "105. Android 3. Fragments. Динамическая работа@https://TimScriptov.github.io/StartAndroid/pages/lesson_105.html",
-	"number" : "106. Android 3. Fragments. Взаимодействие с Activity@https://TimScriptov.github.io/StartAndroid/pages/lesson_106.html",
-	"number" : "107. Android 3. ActionBar. Размещение элементов@https://TimScriptov.github.io/StartAndroid/pages/lesson_107.html",
-	"number" : "108. Android 3. ActionBar. Навигация - табы и выпадающий список@https://TimScriptov.github.io/StartAndroid/pages/lesson_108.html",
-	"number" : "109. Android 3. Fragments. ListFragment - список@https://TimScriptov.github.io/StartAndroid/pages/lesson_109.html",
-	"number" : "110. Android 3. Fragments. DialogFragment - диалог@https://TimScriptov.github.io/StartAndroid/pages/lesson_110.html",
-	"number" : "111. Android 3. Fragments. PreferenceFragment - настройки. Headers@https://TimScriptov.github.io/StartAndroid/pages/lesson_111.html",
-	"number" : "112. Android 3. ActionBar. Динамическое размещение элементов@https://TimScriptov.github.io/StartAndroid/pages/lesson_112.html"
-  ]
+  "lessons" :
+  [{
+  	"number" : 99,
+  	"name" : "Service. Уведомления - notifications."
+  },
+  {
+  	"number" : 100,
+  	"name" : "Service. IntentService. Foreground. Автозагрузка сервиса."
+  },
+  {
+  	"number" : 101,
+  	"name" : "Создаем свой ContentProvider."
+  },
+  {
+  	"number" : 102,
+  	"name" : "Touch – обработка касания."
+  },
+  {
+  	"number" : 103,
+  	"name" : "MultiTouch – обработка множественных касаний."
+  },
+  {
+  	"number" : 104,
+  	"name" : "Android 3. Fragments. Lifecycle."
+  },
+  {
+  	"number" : 105,
+  	"name" : "Android 3. Fragments. Динамическая работа."
+  },
+  {
+  	"number" : 106,
+  	"name" : "Android 3. Fragments. Взаимодействие с Activity."
+  },
+  {
+  	"number" : 107,
+  	"name" : "Android 3. ActionBar. Размещение элементов."
+  },
+  {
+  	"number" : 108,
+  	"name" : "Android 3. ActionBar. Навигация - табы и выпадающий список."
+  },
+  {
+  	"number" : 109,
+  	"name" : "Android 3. Fragments. ListFragment - список."
+  },
+  {
+  	"number" : 110,
+  	"name" : "Android 3. Fragments. DialogFragment - диалог."
+  },
+  {
+  	"number" : 111,
+  	"name" : "Android 3. Fragments. PreferenceFragment - настройки. Headers."
+  },
+  {
+  	"number" : 112,
+  	"name" : "Android 3. ActionBar. Динамическое размещение элементов."
+  }]
 }
