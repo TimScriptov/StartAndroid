@@ -2,58 +2,58 @@
   "lessons" :
   [{
   	"number" : 43,
-  	"name": "Одиночный и множественный выбор в ListView."
+  	"name" : "Одиночный и множественный выбор в ListView."
   },
   {
   	"number" : 44,
-  	"name": "События в ListView."
+  	"name" : "События в ListView."
   },
   {
   	"number" : 45,
-  	"name": "Список-дерево ExpandableListView."
+  	"name" : "Список-дерево ExpandableListView."
   },
   {
   	"number" : 46,
-  	"name": "События ExpandableListView."
+  	"name" : "События ExpandableListView."
   },
   {
   	"number" : 47,
-  	"name": "Обзор адаптеров."
+  	"name" : "Обзор адаптеров."
   },
   {
   	"number" : 48,
-  	"name": "Используем SimpleAdapter."
+  	"name" : "Используем SimpleAdapter."
   },
   {
   	"number" : 49,
-  	"name": "SimpleAdapter. Методы SetViewText и SetViewImage."
+  	"name" : "SimpleAdapter. Методы SetViewText и SetViewImage."
   },
   {
   	"number" : 50,
-  	"name": "SimpleAdapter. Используем ViewBinder."
+  	"name" : "SimpleAdapter. Используем ViewBinder."
   },
   {
   	"number" : 51,
-  	"name": "SimpleAdapter, добавление и удаление записей."
+  	"name" : "SimpleAdapter, добавление и удаление записей."
   },
   {
   	"number" : 52,
-  	"name": "SimpleCursorAdapter, пример использования."
+  	"name" : "SimpleCursorAdapter, пример использования."
   },
   {
   	"number" : 53,
-  	"name": "SimpleCursorTreeAdapter, пример использования."
+  	"name" : "SimpleCursorTreeAdapter, пример использования."
   },
   {
   	"number" : 54,
-  	"name": "Кастомизация списка. Создаем свой адаптер."
+  	"name" : "Кастомизация списка. Создаем свой адаптер."
   },
   {
   	"number" : 55,
-  	"name": "Header и Footer в списках. HeaderViewListAdapter."
+  	"name" : "Header и Footer в списках. HeaderViewListAdapter."
   },
   {
   	"number" : 56,
-  	"name": "Spinner – выпадающий список."
+  	"name" : "Spinner – выпадающий список."
   }]
 }
