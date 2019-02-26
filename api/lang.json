@@ -1,11 +1,11 @@
 {
   "languages" :
   [{
-  	"number" : "en",
-  	"name" : ""
+  	"lang" : "en",
+  	"link" : "https://github.com/TimScriptov/StartAndroid/api/en"
   },
   {
-  	"number" : "ru",
-  	"name" : ""
+  	"lang" : "ru",
+  	"link" : "https://github.com/TimScriptov/StartAndroid/api/ru"
   }]
 }
