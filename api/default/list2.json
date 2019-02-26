@@ -1,0 +1,56 @@
+{
+  "lessons":
+  [{
+  	"number" : 15,
+  	"name" : "Context menu."
+  },
+  {
+  	"number" : 16,
+  	"name" : "Creating layout programmatically. LayoutParams."
+  },
+  {
+  	"number" : 17,
+  	"name" : "Creating View-components in a running application."
+  },
+  {
+  	"number" : 18,
+  	"name" : "Changing layoutParams in a running application."
+  },
+  {
+  	"number" : 19,
+  	"name" : "Creating a simple calculator."
+  },
+  {
+  	"number" : 20,
+  	"name" : "Animation."
+  },
+  {
+  	"number" : 21,
+  	"name" : "Creating and starting an Activity."
+  },
+  {
+  	"number" : 22,
+  	"name" : "Intent, Intent Filter, Context - theory."
+  },
+  {
+  	"number" : 23,
+  	"name" : "Activity Lifecycle. Activity states."
+  },
+  {
+  	"number" : 24,
+  	"name" : "Activity Lifecycle, example about changing states with two Activities."
+  },
+  {
+  	"number" : 25,
+  	"name" : "Task. What is it and how it is formed."
+  },
+  {
+  	"number" : 26,
+  	"name" : "Intent Filter - practice."
+  },
+  {
+  	"number" : 27,
+  	"name" : "Reading action from Intent."
+  }]
+}
+
