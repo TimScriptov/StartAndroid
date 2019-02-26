@@ -2,58 +2,58 @@
   "lessons" :
   [{
   	"number" : 43,
-  	"name" : "Одиночный и множественный выбор в ListView."
+  	"name" : "Single and multiple choice in ListView."
   },
   {
   	"number" : 44,
-  	"name" : "События в ListView."
+  	"name" : "ListView events."
   },
   {
   	"number" : 45,
-  	"name" : "Список-дерево ExpandableListView."
+  	"name" : "ExpandableListView list tree."
   },
   {
   	"number" : 46,
-  	"name" : "События ExpandableListView."
+  	"name" : "ExpandableListView Events."
   },
   {
   	"number" : 47,
-  	"name" : "Обзор адаптеров."
+  	"name" : "Adapter Overview."
   },
   {
   	"number" : 48,
-  	"name" : "Используем SimpleAdapter."
+  	"name" : "Using SimpleAdapter."
   },
   {
   	"number" : 49,
-  	"name" : "SimpleAdapter. Методы SetViewText и SetViewImage."
+  	"name" : "SimpleAdapter. SetsWeText and SetViewImage."
   },
   {
   	"number" : 50,
-  	"name" : "SimpleAdapter. Используем ViewBinder."
+  	"name" : "SimpleAdapter. We use ViewBinder."
   },
   {
   	"number" : 51,
-  	"name" : "SimpleAdapter, добавление и удаление записей."
+  	"name" : "SimpleAdapter, adding and deleting records."
   },
   {
   	"number" : 52,
-  	"name" : "SimpleCursorAdapter, пример использования."
+  	"name" : "SimpleCursorAdapter Case Study."
   },
   {
   	"number" : 53,
-  	"name" : "SimpleCursorTreeAdapter, пример использования."
+  	"name" : "SimpleCursorTreeAdapter, example usage."
   },
   {
   	"number" : 54,
-  	"name" : "Кастомизация списка. Создаем свой адаптер."
+  	"name" : "Customization list. Create your adapter."
   },
   {
   	"number" : 55,
-  	"name" : "Header и Footer в списках. HeaderViewListAdapter."
+  	"name" : "Header and Footer in the lists. HeaderViewListAdapter."
   },
   {
   	"number" : 56,
-  	"name" : "Spinner – выпадающий список."
+  	"name" : "Spinner - drop-down list."
   }]
 }

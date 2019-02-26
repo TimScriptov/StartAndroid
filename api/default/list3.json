@@ -2,62 +2,62 @@
   "lessons" :
   [{
   	"number" : 28,
-  	"name": "Extras - передаем данные с помощью Intent."
+  	"name": "Extras - passing data using Intent."
   },
   {
   	"number" : 29,
-  	"name": "Вызываем Activity и получаем результат. Метод startActivityForResult."
+  	"name": "Making activity return result with startActivityForResult method."
   },
   {
   	"number" : 30,
-  	"name": "Подробнее про onActivityResult. Зачем нужны requestCode и resultCode."
+  	"name": "More details about onActivityResult."
   },
   {
   	"number" : 31,
-  	"name": "Зачем у Intent есть атрибут data. Что такое Uri. Вызываем системные приложения."
+  	"name": "Intent attributes Uri and data. Launch system apps."
   },
   {
   	"number" : 32,
-  	"name": "Пишем простой браузер."
+  	"name": "Code simple browser."
   },
   {
   	"number" : 33,
-  	"name": "Хранение данных. Preferences."
+  	"name": "Data storing. Preferences."
   },
   {
   	"number" : 34,
-  	"name": "Хранение данных. SQLite."
+  	"name": "Storing data. SQLite."
   },
   {
   	"number" : 35,
-  	"name": "SQLite. Методы update и delete с указанием условия."
+  	"name": "SQLite. Methods update и delete with parameters."
   },
   {
   	"number" : 36,
-  	"name": "SQLite. Подробнее про метод query. Условие, сортировка, группировка."
+  	"name": "SQLite. Query method in details. Conditions, grouping, sorting."
   },
   {
   	"number" : 37,
-  	"name": "Запросы из связанных таблиц. INNER JOIN в SQLite. Метод rawQuery."
+  	"name": "Joined tables’ queries. SQLite INNER JOIN. rawQuery method."
   },
   {
   	"number" : 38,
-  	"name": "Транзакции в SQLite. Небольшой FAQ по SQLite."
+  	"name": "SQLite transactions, short SQLite FAQ."
   },
   {
   	"number" : 39,
-  	"name": "onUpgrade. Обновляем БД в SQLite."
+  	"name": "onUpgrade. Database migrating."
   },
   {
   	"number" : 40,
-  	"name": "LayoutInflater. Учимся использовать."
+  	"name": "Learning to use LayoutInflater."
   },
   {
   	"number" : 41,
-  	"name": "Используем LayoutInflater для создания списка."
+  	"name": "Creating a list with LayoutInflater."
   },
   {
   	"number" : 42,
-  	"name": "Список - ListView."
+  	"name": "ListView."
   }]
 }
