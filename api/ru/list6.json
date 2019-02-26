@@ -1,0 +1,59 @@
+{
+  "lessons" :
+  [{
+  	"number" : 71,
+  	"name" : "Preferences как настройки приложения. PreferenceActivity."
+  },
+  {
+  	"number" : 72,
+  	"name" : "Preferences. Список, экраны и категории."
+  },
+  {
+  	"number" : 73,
+  	"name" : "Preferences. Управляем активностью настроек (setEnabled)."
+  },
+  {
+  	"number" : 74,
+  	"name" : "Preferences. Программное создание экрана настроек."
+  },
+  {
+  	"number" : 75,
+  	"name" : "Хранение данных. Работа с файлами."
+  },
+  {
+  	"number" : 76,
+  	"name" : "Tab - вкладки. Общий обзор."
+  },
+  {
+  	"number" : 77,
+  	"name" : "Tab - вкладки. TabActivity. Activity, как содержимое вкладки."
+  },
+  {
+  	"number" : 78,
+  	"name" : "Tab - вкладки. TabContentFactory, ручное создание содержимого вкладки."
+  },
+  {
+  	"number" : 79,
+  	"name" : "XmlPullParser. Парсим XML."
+  },
+  {
+  	"number" : 80,
+  	"name" : "Handler. Немного теории.  Наглядный пример использования."
+  },
+  {
+  	"number" : 81,
+  	"name" : "Handler. Посылаем простое сообщение."
+  },
+  {
+  	"number" : 82,
+  	"name" : "Handler. Пример с более содержательными сообщениями."
+  },
+  {
+  	"number" : 83,
+  	"name" : "Handler. Отложенные сообщения, удаление из очереди, Handler.Callback."
+  },
+  {
+  	"number" : 84,
+  	"name" : "Handler. Обработка Runnable."
+  }]
+}

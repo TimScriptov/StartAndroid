@@ -1,0 +1,59 @@
+{
+  "lessons" :
+  [{
+  	"number" : 85,
+  	"name" : "Еще несколько способов выполнения кода в UI-потоке."
+  },
+  {
+  	"number" : 86,
+  	"name" : "AsyncTask. Знакомство, несложный пример."
+  },
+  {
+  	"number" : 87,
+  	"name" : "AsyncTask. Параметры. Промежуточные результаты."
+  },
+  {
+  	"number" : 88,
+  	"name" : "AsyncTask. Итоговый результат. Метод get."
+  },
+  {
+  	"number" : 89,
+  	"name" : "AsyncTask. Cancel – отменяем задачу в процессе выполнения."
+  },
+  {
+  	"number" : 90,
+  	"name" : "AsyncTask. Status – статусы задачи."
+  },
+  {
+  	"number" : 91,
+  	"name" : "AsyncTask. Поворот экрана."
+  },
+  {
+  	"number" : 92,
+  	"name" : "Service. Простой пример."
+  },
+  {
+  	"number" : 93,
+  	"name" : "Service. Передача данных в сервис. Методы остановки сервиса."
+  },
+  {
+  	"number" : 94,
+  	"name" : "Service. Подробно про onStartCommand."
+  },
+  {
+  	"number" : 95,
+  	"name" : "Service. Обратная связь с помощью PendingIntent."
+  },
+  {
+  	"number" : 96,
+  	"name" : "Service. Обратная связь с помощью BroadcastReceiver."
+  },
+  {
+  	"number" : 97,
+  	"name" : "Service. Биндинг. ServiceConnection."
+  },
+  {
+  	"number" : 98,
+  	"name" : "Service. Локальный биндинг."
+  }]
+}

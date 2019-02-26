@@ -1,0 +1,59 @@
+{
+  "lessons" :
+  [{
+  	"number" : 99,
+  	"name" : "Service. Уведомления - notifications."
+  },
+  {
+  	"number" : 100,
+  	"name" : "Service. IntentService. Foreground. Автозагрузка сервиса."
+  },
+  {
+  	"number" : 101,
+  	"name" : "Создаем свой ContentProvider."
+  },
+  {
+  	"number" : 102,
+  	"name" : "Touch – обработка касания."
+  },
+  {
+  	"number" : 103,
+  	"name" : "MultiTouch – обработка множественных касаний."
+  },
+  {
+  	"number" : 104,
+  	"name" : "Android 3. Fragments. Lifecycle."
+  },
+  {
+  	"number" : 105,
+  	"name" : "Android 3. Fragments. Динамическая работа."
+  },
+  {
+  	"number" : 106,
+  	"name" : "Android 3. Fragments. Взаимодействие с Activity."
+  },
+  {
+  	"number" : 107,
+  	"name" : "Android 3. ActionBar. Размещение элементов."
+  },
+  {
+  	"number" : 108,
+  	"name" : "Android 3. ActionBar. Навигация - табы и выпадающий список."
+  },
+  {
+  	"number" : 109,
+  	"name" : "Android 3. Fragments. ListFragment - список."
+  },
+  {
+  	"number" : 110,
+  	"name" : "Android 3. Fragments. DialogFragment - диалог."
+  },
+  {
+  	"number" : 111,
+  	"name" : "Android 3. Fragments. PreferenceFragment - настройки. Headers."
+  },
+  {
+  	"number" : 112,
+  	"name" : "Android 3. ActionBar. Динамическое размещение элементов."
+  }]
+}
