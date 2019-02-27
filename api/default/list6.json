@@ -2,58 +2,58 @@
   "lessons" :
   [{
   	"number" : 71,
-  	"name" : "Preferences как настройки приложения. PreferenceActivity."
+  	"name" : "Preferences as application settings. PreferenceActivity."
   },
   {
   	"number" : 72,
-  	"name" : "Preferences. Список, экраны и категории."
+  	"name" : "Preferences. List, screens and categories."
   },
   {
   	"number" : 73,
-  	"name" : "Preferences. Управляем активностью настроек (setEnabled)."
+  	"name" : "Preferences. Manage settings activity (setEnabled)."
   },
   {
   	"number" : 74,
-  	"name" : "Preferences. Программное создание экрана настроек."
+  	"name" : "Preferences. Software creation of settings screen."
   },
   {
   	"number" : 75,
-  	"name" : "Хранение данных. Работа с файлами."
+  	"name" : "Data storage. Work with files."
   },
   {
   	"number" : 76,
-  	"name" : "Tab - вкладки. Общий обзор."
+  	"name" : "Tab - tabs. general review."
   },
   {
   	"number" : 77,
-  	"name" : "Tab - вкладки. TabActivity. Activity, как содержимое вкладки."
+  	"name" : "Tab - tabs. TabActivity. Activity as tab content."
   },
   {
   	"number" : 78,
-  	"name" : "Tab - вкладки. TabContentFactory, ручное создание содержимого вкладки."
+  	"name" : "Tab - tabs. TabContentFactory, manual creation of tab contents."
   },
   {
   	"number" : 79,
-  	"name" : "XmlPullParser. Парсим XML."
+  	"name" : "XmlPullParser. Parsim XML."
   },
   {
   	"number" : 80,
-  	"name" : "Handler. Немного теории.  Наглядный пример использования."
+  	"name" : "Handler. A bit of theory. Illustrative use case."
   },
   {
   	"number" : 81,
-  	"name" : "Handler. Посылаем простое сообщение."
+  	"name" : "Handler. We send a simple message."
   },
   {
   	"number" : 82,
-  	"name" : "Handler. Пример с более содержательными сообщениями."
+  	"name" : "Handler. An example with more meaningful messages."
   },
   {
   	"number" : 83,
-  	"name" : "Handler. Отложенные сообщения, удаление из очереди, Handler.Callback."
+  	"name" : "Handler. Delayed messages, removal from the queue, Handler.Callback."
   },
   {
   	"number" : 84,
-  	"name" : "Handler. Обработка Runnable."
+  	"name" : "Handler. Runnable processing."
   }]
 }

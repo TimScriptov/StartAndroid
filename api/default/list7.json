@@ -2,58 +2,58 @@
   "lessons" :
   [{
   	"number" : 85,
-  	"name" : "Еще несколько способов выполнения кода в UI-потоке."
+  	"name" : "A few more ways to execute code in a UI thread."
   },
   {
   	"number" : 86,
-  	"name" : "AsyncTask. Знакомство, несложный пример."
+  	"name" : "AsyncTask. Acquaintance, simple example."
   },
   {
   	"number" : 87,
-  	"name" : "AsyncTask. Параметры. Промежуточные результаты."
+  	"name" : "AsyncTask. Options. Interim results."
   },
   {
   	"number" : 88,
-  	"name" : "AsyncTask. Итоговый результат. Метод get."
+  	"name" : "AsyncTask. The final result. Get method."
   },
   {
   	"number" : 89,
-  	"name" : "AsyncTask. Cancel – отменяем задачу в процессе выполнения."
+  	"name" : "AsyncTask. Cancel - cancel the task during execution."
   },
   {
   	"number" : 90,
-  	"name" : "AsyncTask. Status – статусы задачи."
+  	"name" : "AsyncTask. Status - task status."
   },
   {
   	"number" : 91,
-  	"name" : "AsyncTask. Поворот экрана."
+  	"name" : "AsyncTask. Screen rotation."
   },
   {
   	"number" : 92,
-  	"name" : "Service. Простой пример."
+  	"name" : "Service. Simple example."
   },
   {
   	"number" : 93,
-  	"name" : "Service. Передача данных в сервис. Методы остановки сервиса."
+  	"name" : "Service. Data transfer to the service. Service stopping methods."
   },
   {
   	"number" : 94,
-  	"name" : "Service. Подробно про onStartCommand."
+  	"name" : "Service. Learn more about onStartCommand."
   },
   {
   	"number" : 95,
-  	"name" : "Service. Обратная связь с помощью PendingIntent."
+  	"name" : "Service. Feedback with PendingIntent."
   },
   {
   	"number" : 96,
-  	"name" : "Service. Обратная связь с помощью BroadcastReceiver."
+  	"name" : "Service. Feedback via BroadcastReceiver."
   },
   {
   	"number" : 97,
-  	"name" : "Service. Биндинг. ServiceConnection."
+  	"name" : "Service. Binding Serviceconnection."
   },
   {
   	"number" : 98,
-  	"name" : "Service. Локальный биндинг."
+  	"name" : "Service. Local binding."
   }]
 }

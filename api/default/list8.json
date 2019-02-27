@@ -2,23 +2,23 @@
   "lessons" :
   [{
   	"number" : 99,
-  	"name" : "Service. Уведомления - notifications."
+  	"name" : "Service. Notifications - notifications."
   },
   {
   	"number" : 100,
-  	"name" : "Service. IntentService. Foreground. Автозагрузка сервиса."
+  	"name" : "Service. IntentService. Foreground. Autostart service."
   },
   {
   	"number" : 101,
-  	"name" : "Создаем свой ContentProvider."
+  	"name" : "Create your ContentProvider."
   },
   {
   	"number" : 102,
-  	"name" : "Touch – обработка касания."
+  	"name" : "Touch - touch processing."
   },
   {
   	"number" : 103,
-  	"name" : "MultiTouch – обработка множественных касаний."
+  	"name" : "MultiTouch - handling multiple touches."
   },
   {
   	"number" : 104,
@@ -26,34 +26,34 @@
   },
   {
   	"number" : 105,
-  	"name" : "Android 3. Fragments. Динамическая работа."
+  	"name" : "Android 3. Fragments. Dynamic work."
   },
   {
   	"number" : 106,
-  	"name" : "Android 3. Fragments. Взаимодействие с Activity."
+  	"name" : "Android 3. Fragments. Interaction with the Activity."
   },
   {
   	"number" : 107,
-  	"name" : "Android 3. ActionBar. Размещение элементов."
+  	"name" : "Android 3. ActionBar. Placement of elements."
   },
   {
   	"number" : 108,
-  	"name" : "Android 3. ActionBar. Навигация - табы и выпадающий список."
+  	"name" : "Android 3. ActionBar. Navigation - tabs and dropdown list."
   },
   {
   	"number" : 109,
-  	"name" : "Android 3. Fragments. ListFragment - список."
+  	"name" : "Android 3. Fragments. ListFragment - list."
   },
   {
   	"number" : 110,
-  	"name" : "Android 3. Fragments. DialogFragment - диалог."
+  	"name" : "Android 3. Fragments. DialogFragment - dialogue."
   },
   {
   	"number" : 111,
-  	"name" : "Android 3. Fragments. PreferenceFragment - настройки. Headers."
+  	"name" : "Android 3. Fragments. PreferenceFragment - settings. Headers."
   },
   {
   	"number" : 112,
-  	"name" : "Android 3. ActionBar. Динамическое размещение элементов."
+  	"name" : "Android 3. ActionBar. Dynamic placement of elements."
   }]
 }

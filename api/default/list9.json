@@ -2,51 +2,51 @@
   "lessons" :
   [{
   	"number" : 113,
-  	"name" : "Android 3. ActionMode, как альтернатива контекстному меню."
+  	"name" : "Android 3. ActionMode as an alternative to the context menu."
   },
   {
   	"number" : 114,
-  	"name" : "Android 3. Библиотека Support Library. Зачем нужна и как ее использовать на примере фрагментов."
+  	"name" : "Android 3. Support Library. Why and how to use it on the example of fragments."
   },
   {
   	"number" : 115,
-  	"name" : "Одно приложение на разных экранах."
+  	"name" : "One application on different screens."
   },
   {
   	"number" : 116,
-  	"name" : "Поведение Activity в Task. Intent-флаги, launchMode, affinity."
+  	"name" : "Activity behavior in Task. Intent flags, launchMode, affinity."
   },
   {
   	"number" : 117,
-  	"name" : "Виджеты. Создание. Lifecycle."
+  	"name" : "Widgets. Creature. Lifecycle."
   },
   {
   	"number" : 118,
-  	"name" : "Виджеты. Конфигурационный экран. Обновление."
+  	"name" : "Widgets. Configuration screen Update."
   },
   {
   	"number" : 119,
-  	"name" : "PendingIntent – флаги, requestCode. AlarmManager."
+  	"name" : "PendingIntent - flags, requestCode. Alarmmanager."
   },
   {
   	"number" : 120,
-  	"name" : "Виджеты. Обработка нажатий."
+  	"name" : "Widgets. Click processing."
   },
   {
   	"number" : 121,
-  	"name" : "Виджеты. Список."
+  	"name" : "Widgets. List."
   },
   {
   	"number" : 122,
-  	"name" : "Виджеты. Превью, изменение размера, экран блокировки, ручное обновление."
+  	"name" : "Widgets. Preview, resize, lock screen, manual update."
   },
   {
   	"number" : 123,
-  	"name" : "Как подписать приложение. Утилиты keytool и jarsigner."
+  	"name" : "How to sign the application. Keytool and jarsigner utilities."
   },
   {
   	"number" : 124,
-  	"name" : "Что такое Package для приложения."
+  	"name" : "What is a Package for an application?."
   },
   {
   	"number" : 125,
@@ -54,6 +54,6 @@
   },
   {
   	"number" : 126,
-  	"name" : "Медиа. MediaPlayer – аудио/видео плеер, основные возможности."
+  	"name" : "Media. MediaPlayer - audio/video player, key features."
   }]
 }

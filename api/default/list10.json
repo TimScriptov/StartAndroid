@@ -2,35 +2,35 @@
   "lessons" :
   [{
   	"number" : 127,
-  	"name" : "Медиа. SoundPool"
+  	"name" : "Media. Soundpool."
   },
   {
   	"number" : 128,
-  	"name" : "Медиа. Audio Focus"
+  	"name" : "Media. Audio focus."
   },
   {
   	"number" : 129,
-  	"name" : "Медиа. Запись звука с помощью MediaRecorder"
+  	"name" : "Media. Sound Recording with MediaRecorder."
   },
   {
   	"number" : 130,
-  	"name" : "Медиа. Запись звука с помощью AudioRecorder"
+  	"name" : "Media. Sound Recording with AudioRecorder."
   },
   {
   	"number" : 131,
-  	"name" : "Камера. Используем системное приложение"
+  	"name" : "Camera. We use the system application."
   },
   {
   	"number" : 132,
-  	"name" : "Камера. Вывод изображения на экран. Размер preview. Обработка поворота устройства"
+  	"name" : "The camera. Display image on screen. Size preview. Handling device rotation."
   },
   {
   	"number" : 133,
-  	"name" : "Камера. Делаем снимок и пишем видео"
+  	"name" : "Camera. Take a picture and write video."
   },
   {
   	"number" : 134,
-  	"name" : "Камера. Настройки"
+  	"name" : "Camera. Settings."
   },
   {
   	"number" : 135,
@@ -42,18 +42,18 @@
   },
   {
   	"number" : 137,
-  	"name" : "Сенсоры. Ускорение, ориентация."
+  	"name" : "Sensors. Acceleration, orientation."
   },
   {
   	"number" : 138,
-  	"name" : "Определение местоположения. GPS координаты."
+  	"name" : "Determination of location. GPS coordinates."
   },
   {
   	"number" : 139,
-  	"name" : "Google maps. Создание и настройка проекта. Карта, камера, события."
+  	"name" : "Google maps. Create and configure the project. Map, Camera, Events."
   },
   {
   	"number" : 140,
-  	"name" : "Google maps. Свои объекты на карте."
+  	"name" : "Google maps. Own objects on the map."
   }]
 }
