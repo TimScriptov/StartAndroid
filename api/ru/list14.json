@@ -1,0 +1,23 @@
+{
+  "lessons" :
+  [{
+  	"number" : 178,
+  	"name": "ConstraintLayout: match_constraints, инструменты в toolbar, guidelines, aspect ratio."
+  },
+  {
+  	"number" : 179,
+  	"name": "ConstraintLayout: chain, weight, barrier, group, circular."
+  },
+  {
+  	"number" : 180,
+  	"name": "ConstraintSet. Программная настройка ConstraintLayout."
+  },
+  {
+  	"number" : 181,
+  	"name": "Android Notifications. Уведомления. Основы."
+  },
+  {
+  	"number" : 182,
+  	"name": "Notifications. Режимы открытия Activity."
+  }]
+}

@@ -2,58 +2,58 @@
   "lessons" :
   [{
   	"number" : 141,
-  	"name" : "Рисование. Доступ к Canvas"
+  	"name" : "Drawing. Access to Canvas."
   },
   {
   	"number" : 142,
-  	"name" : "Рисование. Простые фигуры, текст"
+  	"name" : "Drawing. Simple shapes, text."
   },
   {
   	"number" : 143,
-  	"name" : "Рисование. Path"
+  	"name" : "Drawing. Path."
   },
   {
   	"number" : 144,
-  	"name" : "Рисование. Matrix-преобразования"
+  	"name" : "Drawing. Matrix Transformations"
   },
   {
   	"number" : 145,
-  	"name" : "Рисование. Matrix. setRectToRect и setPolyToPoly"
+  	"name" : "Drawing. Matrix. setRectToRect and setPolyToPoly."
   },
   {
   	"number" : 146,
-  	"name" : "Рисование. Canvas-преобразования. Методы save и restore."
+  	"name" : "Drawing. Canvas transformations. Methods save and restore."
   },
   {
   	"number" : 147,
-  	"name" : "Рисование. Region"
+  	"name" : "Drawing. Region."
   },
   {
   	"number" : 148,
-  	"name" : "Рисование. Canvas, clip"
+  	"name" : "Drawing. Canvas, clip."
   },
   {
   	"number" : 149,
-  	"name" : "Рисование. Текст"
+  	"name" : "Drawing. Text."
   },
   {
   	"number" : 150,
-  	"name" : "Рисование. PathMeasure – информация о Path-объекте"
+  	"name" : "Drawing. PathMeasure - information about the Path object."
   },
   {
   	"number" : 151,
-  	"name" : "Рисование. PathEffect"
+  	"name" : "Drawing. PathEffect."
   },
   {
   	"number" : 152,
-  	"name" : "Рисование. Picture"
+  	"name" : "Drawing. Picture."
   },
   {
   	"number" : 153,
-  	"name" : "Рисование. ColorFilter, ColorMatrix"
+  	"name" : "Drawing. ColorFilter, ColorMatrix."
   },
   {
   	"number" : 154,
-  	"name" : "Рисование. PorterDuff.Mode, PorterDuffXfermode"
+  	"name" : "Drawing. PorterDuff.Mode, PorterDuffXfermode."
   }]
 }

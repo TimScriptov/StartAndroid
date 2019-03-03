@@ -2,15 +2,15 @@
   "lessons" :
   [{
   	"number" : 169,
-  	"name": "OpenGL. Шейдеры."
+  	"name": "OpenGL. Shaders."
   },
   {
   	"number" : 170,
-  	"name": "OpenGL. Графические примитивы."
+  	"name": "OpenGL. Graphic primitives."
   },
   {
   	"number" : 171,
-  	"name": "OpenGL. Цвет."
+  	"name": "OpenGL. Colour."
   },
   {
   	"number" : 172,
@@ -18,22 +18,22 @@
   },
   {
   	"number" : 173,
-  	"name": "OpenGL. Камера."
+  	"name": "OpenGL. Camera."
   },
   {
   	"number" : 174,
-  	"name": "OpenGL. Модель."
+  	"name": "OpenGL. Model."
   },
   {
   	"number" : 175,
-  	"name": "OpenGL. Текстуры."
+  	"name": "OpenGL. Textures."
   },
   {
   	"number" : 176,
-  	"name": "OpenGL. Индексы, текстуры для куба."
+  	"name": "OpenGL. Indices, textures for the cube."
   },
   {
   	"number" : 177,
-  	"name" : "ConstraintLayout. Основы."
+  	"name" : "ConstraintLayout. The basics."
   }]
 }

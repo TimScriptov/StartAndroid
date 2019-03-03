@@ -1,0 +1,23 @@
+{
+  "lessons" :
+  [{
+  	"number" : 178,
+  	"name": "ConstraintLayout: match_constraints, tools in the toolbar, guidelines, aspect ratio."
+  },
+  {
+  	"number" : 179,
+  	"name": "ConstraintLayout: chain, weight, barrier, group, circular."
+  },
+  {
+  	"number" : 180,
+  	"name": "ConstraintSet. ConstraintLayout software setup."
+  },
+  {
+  	"number" : 181,
+  	"name": "Android Notifications. Notifications. The basics."
+  },
+  {
+  	"number" : 182,
+  	"name": "Notifications. Activity Opening Modes."
+  }]
+}
