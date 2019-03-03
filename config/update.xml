@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-	<version_code>707</version_code>
-	<version_name>7.0.7</version_name>
-	<release_notes>Добавлены новые уроки</release_notes>
+	<version_code>808</version_code>
+	<version_name>8.0.8</version_name>
+	<release_notes>
+		•Исправлены ошибки
+		•Добавлены быстрые настройки при запуске приложения
+		</release_notes>
 	<download_link>market://details?id=com.startandroid</download_link>
 </update>
