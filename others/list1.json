@@ -2,58 +2,58 @@
   "lessons" :
   [{
   	"number" : 1,
-  	"name" : "Introduction"
+  	"name" : "Введение"
   },
   {
   	"number" : 2,
-  	"name" : "Installing Android Studio"
+  	"name" : "Установка Android Studio"
   },
   {
   	"number" : 3,
-  	"name" : "Creating AVD. The first application. Android project structure."
+  	"name" : "Создание AVD. Первое приложение. Структура Android-проекта."
   },
   {
   	"number" : 4,
-  	"name" : "Layout elements and their properties"
+  	"name" : "Элементы экрана и их свойства"
   },
   {
   	"number" : 5,
-  	"name" : "Layout-file for Activity. XML Representation. Changing screen orientation."
+  	"name" : "Layout-файл в Activity. XML представление. Смена ориентации экрана."
   },
   {
   	"number" : 6,
-  	"name" : "Layout types. Key differences and properties."
+  	"name" : "Виды Layouts. Ключевые отличия и свойства."
   },
   {
   	"number" : 7,
-  	"name" : "Layout parameters for View-elements."
+  	"name" : "Layout параметры для View-элементов."
   },
   {
   	"number" : 8,
-  	"name" : "Working with layout elements from code."
+  	"name" : "Работаем с элементами экрана из кода"
   },
   {
   	"number" : 9,
-  	"name" : "Event listeners with Button example."
+  	"name" : "Обработчики событий на примере Button."
   },
   {
   	"number" : 10,
-  	"name" : "Optimizing event listeners implementation."
+  	"name" : "Оптимизируем реализацию обработчиков."
   },
   {
   	"number" : 11,
-  	"name" : "res/values folder. Using application resources."
+  	"name" : "Папка res/values. Используем ресурсы приложения."
   },
   {
   	"number" : 12,
-  	"name" : "Logs and Toast messages.."
+  	"name" : "Логи и всплывающие сообщения."
   },
   {
   	"number" : 13,
-  	"name" : "Creating a simple menu."
+  	"name" : "Создание простого меню."
   },
   {
   	"number" : 14,
-  	"name" : "Menu, groups, order. MenuInflater and xml-menu."
+  	"name" : "Меню, группы, порядок. MenuInflater и xml-меню."
   }]
 }
