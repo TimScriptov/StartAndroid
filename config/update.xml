@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-	<version_code>808</version_code>
-	<version_name>8.0.8</version_name>
+	<version_code>1110</version_code>
+	<version_name>11.1.0</version_name>
 	<release_notes>
-		•Исправлены ошибки
-		•Добавлены быстрые настройки при запуске приложения
+		Исправлены ошибки, улучшена производительность
 		</release_notes>
 	<download_link>market://details?id=com.startandroid</download_link>
 </update>
